@@ -1,24 +1,19 @@
-ZUSAMMEN WACHSEN REGIERUNGSPROGRAMM 2025
-INHALTSVERZEICHNIS
-TOC \o "1-5" \h \z Präambel8
-KAPITEL 1
 In die Zukunft wachsen - ökologisch und ökonomisch 14
 Eine starke Wirtschaft für sichere Jobs17
 Für einen wettbewerbsfähigen Standort17
-Für mehr Arbeitskräfte und die gleichberechtigte Erwerbstätigkeit von Frauen 19 Für eine starke europäische Wirtschaft20
+Für mehr Arbeitskräfte und die gleichberechtigte Erwerbstätigkeit von Frauen 19
+Für eine starke europäische Wirtschaft20
 Für funktionierende und nachhaltige Finanzmärkte21
-Für mehr Innovationskraft22
 Für die klimaneutrale Modernisierung der Industrie24
 Für die Stärkung von Mittelstand und Handwerk26
 Für Wirtschaftssicherheit und zukunftsfähigen Außenhandel28
-Für Rohstoffsicherheit und Kreislaufwirtschaft30
 Für einen starken Verbraucherschutz31
 Ein modernes und digitales Land32
-Für einen Staat, der für die Menschen funktioniert32
+Für einen Staat, der für die Menschen
 Für eine serviceorientierte Verwaltung33
 Für eine schnelle und umfassende Digitalisierung34
 Für einen Deutschlandfonds und eine Reform der Schuldenbremse36
-Ein Klima, in dem wir gut leben können37
+Ein Klima, in dem wir gut leben
 Für ein stabiles und sicheres Klima37
 Für sozial gerechten Klimaschutz39
 Für günstige, verlässliche und klimaneutrale Energie41
@@ -27,7 +22,6 @@ Für vorsorgende Anpassungen an ein verändertes Klima45
 Eine mobile Gesellschaft - Stadt und Land zusammen46
 Für nachhaltiges, sicheres und zügiges Fortkommen46
 Für eine verlässliche und bezahlbare Bahn49
-Für gleichwertige Lebensverhältnisse50
 Eine Natur, die wir schützen51
 Für eine intakte Natur51
 Für eine gesunde Umwelt53
@@ -35,46 +29,35 @@ Für sauberes Wasser und lebendige Meere55
 Eine zukunftsfeste Ernährung und Landwirtschaft57
 Für starke Landwirtinnen und Landwirte57
 Für die natürlichen Grundlagen unserer Ernährung58
-Für gute Ernährung60
 Für einen besseren Umgang mit Tieren61
-KAPITEL 2
 Einfach dabei sein - fair und bezahlbar64
 Starke Teilhabe: gute Arbeit, bezahlbares Wohnen, faire Löhne67
 Für gute Arbeit und faire Löhne67
-Für bezahlbares Wohnen69
 Für schnelles, günstiges und klimaverträgliches Bauen und Sanieren71
 Für ein gerechtes Steuersystem73
-Eine gute Bildung für gute Chancen75
+Eine gute Bildung für
 Für gute und verlässliche Kitas75
 Für starke Schulen für alle Kinder76
 Für eine gute Berufsbildung, die allen offensteht78
 Für eine starke Hochschul- und Wissenschaftslandschaft80
 Mitten im Leben - in jeder Lebensphase81
-Für starke Familien81
 Für die Teilhabe der Jüngsten - gegen Kinderarmut83
 Für einen guten Start der jungen Generation84
 Für ein aktives und selbstbestimmtes Leben im Alter86
 In jeder Lebensphase abgesichert87
-Für eine gute Gesundheitsversorgung überall87
+Für eine gute Gesundheitsversorgung
 Für eine verlässliche und würdige Pflege91
 Für eine solidarische Kranken- und Pflegeversicherung93
 Für eine vorausschauende Gesundheitspolitik94
 Für eine zukunftsfeste und würdige Rente97
 Für verlässliche soziale Sicherung99
-KAPITEL 3
-TOC \o "1-5" \h \z Frieden in Freiheit sichern - innen und außen102
-Eine lebendige Demokratie105
-Für demokratischen Zusammenhalt105
+" \h \z Frieden in Freiheit sichern - innen und außen102
 Für eine Erinnerung, die uns wach hält106
-Für handlungsfähige Kommunen108
 Für eine starke demokratische Gesellschaft109
 Für die Unterstützung von freiwilligem Engagement111
 Für Sport, der verbindet112
 Für eine handlungsfähige Justiz in unserem Rechtsstaat113
-Für digitale Bürger*innenrechte114
 Für eine vielfältige Gesellschaft ohne Diskriminierung115
-Für Frauenrechte118
-Für Selbstbestimmung120
 Für queeres Leben: sicher und selbstbestimmt121
 Für gleichberechtigte Teilhabe von Menschen mit Behinderung und eine inklusive Gesellschaft122
 Für lebendige Kunst und Kultur124
@@ -86,22 +69,19 @@ Für gute Polizeiarbeit gegen Kriminalität133
 Für einen verstärkten Einsatz gegen Organisierte Kriminalität134
 Für eine klare Kante gegen Geldwäsche und organisierten Steuerbetrug135
 Für ein entschiedenes Vorgehen gegen Extremismus und Terror136
-Für einen krisenfesten Bevölkerungsschutz138
 Für die Verbindung von innerer und äußerer Sicherheit139
 Für IT-Sicherheit und gegen systematische Desinformation140
 Für die Verteidigung von Frieden und Freiheit141
 Eine starke Europäische Union142
-Für eine EU, die unsere Demokratie verteidigt142
+Für eine EU,
+die unsere Demokratie verteidigt142
 Für eine handlungsfähige EU143
 Außen-, Sicherheits- und Entwicklungspolitik in Verantwortung145
 Für eine aktive Außenpolitik145
-Für einen zukunftsfesten Multilateralismus149
 Für Menschenrechte und demokratische Entwicklung150
 Für die Sicherheit und Frieden in Europa und der Welt152
 Für eine moderne, verteidigungsfähige Bundeswehr153
-Für globalen Klimaschutz155
 Für starke Partnerschaften und internationale Gerechtigkeit156
-Präambel
 Bei den Bundestagswahlen am 23. Februar stehen Sie, liebe Bürgerinnen und Bürger, vor einer wichtigen Entscheidung.
 Es geht darum, wer für unser Land in dieser herausfordernden Zeit Regierungsverantwortung trägt.
 Jetzt kommt es auf die Kraft unseres Zusammenlebens an, in dem die Menschen auch in diesen herausfordernden Zeiten so viel einbringen und leisten.
@@ -112,7 +92,6 @@ Deutschland hat viele große Stärken.
 Mit der Kraft von Ihnen, den Bürgerinnen und Bürgern, die den Laden jeden Tag trotz der großen Herausforderungen am Laufen halten.
 Auf der Arbeit.
 In der Familie.
-Im Ehrenamt.
 Mit viel Engagement und Einsatz.
 Mit einem starken Sozialstaat und erfolgreichen Unternehmen nicht zuletzt im Mittelstand.
 Mit Anstrengung und Innovation, Vielfalt und Solidarität.
@@ -156,7 +135,6 @@ Doch aus dem Zutrauen in die Wirtschaft erwächst zugleich der Auftrag, die Zuku
 Wir wollen, dass unsere Wirtschaft in die Zukunft wächst: klimaneutral, nachhaltig, innovativ, wettbewerbsfähig in einem gemeinsamen Europa.
 Ihre Kraft können Unternehmen nur entfalten, wenn sie Raum bekommen für unkomplizierte und pragmatische Lösungen - und sich zugleich auf klare Ziele und Rahmensetzungen verlassen können.
 Das verlangt von der Politik: Kurs halten.
-Verlässlichkeit herstellen.
 Regeln und Normen vereinfachen.
 Kurz: mehr ermöglichen.
 Dabei kommt dem Schutz unseres Klimas, unserer Ökosysteme mit allen Pflanzen und Tieren herausragende Bedeutung zu.
@@ -218,11 +196,10 @@ Die mit Menschlichkeit, Partnerschaft und Stärke für unsere Werte und Interess
 Dafür bitten wir bei der kommenden Bundestagswahl um Ihr Vertrauen und Ihre Stimme!
 Nehmen wir unsere Zukunft zusammen in die Hand!
 Wachsen wir zusammen!
-KAPITEL 1: IN DIE ZUKUNFT WACHSEN
-ÖKOLOGISCH UND ÖKONOMISCH
 Die Menschen in Deutschland sind zu Recht stolz auf das, was sie schaffen, auf die Qualität ihrer Arbeit, auf ihre Erfahrungen und Kompetenzen - ob im Erwerbsleben, in der familiären Erziehung, in der Pflege von Angehörigen oder im Ehrenamt.
 Ihre Leistungen verdienen unsere Anerkennung.
-Deutschland muss auf diese Kraft bauen, um die großen strukturellen Herausforderungen anzugehen, vor denen wir stehen: Der Angriffskrieg von Russland auf die Ukraine und der Systemkonflikt zwischen liberalen Demokratien und autoritären Staaten im Umfeld Chinas erfordern eine Neuausrichtung von Wirtschaftssicherheit und Handel, Lieferketten und Absatzmärkten.
+Deutschland muss auf diese Kraft bauen, um die großen strukturellen Herausforderungen anzugehen, vor denen wir stehen:
+Der Angriffskrieg von Russland auf die Ukraine und der Systemkonflikt zwischen liberalen Demokratien und autoritären Staaten im Umfeld Chinas erfordern eine Neuausrichtung von Wirtschaftssicherheit und Handel, Lieferketten und Absatzmärkten.
 Wir werden diesen Wettstreit auch im Ökonomischen nur gewinnen, wenn wir den großen Vorteil der liberalen Demokratie maximal zur Geltung bringen: dass Menschen neue Ideen haben und Dinge frei entdecken und entfalten können.
 Wir wollen in der kommenden Regierung daran weiterarbeiten, die strukturellen Schwächen unseres Standorts zu beheben, unsere Unternehmen auf dem Weg in die Klimaneutralität zu unterstützen und unsere Wirtschaft in Einklang mit den planetaren Grenzen zu bringen.
 Wir sorgen dafür, dass Deutschland und Europa bei den Innovationen der Zukunft vorn mit dabei sind.
@@ -231,8 +208,10 @@ Dafür können wir nicht im Status quo verharren.
 Vielmehr brauchen wir mehr Raum und Begeisterung für die Bereitschaft und den Mut, mit neuen Ideen und Technologien ins Risiko zu gehen.
 Unser Ziel ist, die Innovationskraft unseres Landes spürbar zu stärken und zum Spitzenreiter bei Zukunftstechnologien zu werden.
 Das europäisch verankerte Vorsorgeprinzip stellt sicher, dass technologischer Fortschritt für nachhaltige Entwicklung und im Sinne des Gemeinwohls erfolgt.
-Damit wir unseren Wohlstand erneuern und nicht nur verwalten, braucht es ein Land, das einfach funktioniert - einen Staat, der es den Menschen und Unternehmen leichter macht, ihre Ideen umzusetzen, und nicht schwerer: mit einem Klick zur Lösung statt mit einem Dutzend Formularen in den Papierkrieg.
-Den Anfang haben wir in den vergangenen drei Jahren geschafft: Wir haben ein Rekordtempo beim Ausbau der Erneuerbaren erzeugt, haben Grundlagen gelegt bei der Modernisierung der Industrie, der Zuwanderung von Fachkräften, der Beschleunigung von Planungs- und Genehmigungsverfahren, der Stärkung von Investitionen.
+Damit wir unseren Wohlstand erneuern und nicht nur verwalten, braucht es ein Land, das einfach funktioniert - einen Staat, der es den Menschen und Unternehmen leichter macht, ihre Ideen umzusetzen, und nicht schwerer:
+mit einem Klick zur Lösung statt mit einem Dutzend Formularen in den Papierkrieg.
+Den Anfang haben wir in den vergangenen drei Jahren geschafft:
+Wir haben ein Rekordtempo beim Ausbau der Erneuerbaren erzeugt, haben Grundlagen gelegt bei der Modernisierung der Industrie, der Zuwanderung von Fachkräften, der Beschleunigung von Planungs- und Genehmigungsverfahren, der Stärkung von Investitionen.
 Aber unser Land braucht jetzt eine gemeinsame Anstrengung, damit wir auf diesem Weg erfolgreich vorankommen.
 Der Wettlauf bei der technologischen Entwicklung macht es notwendig, dass neue Ideen und Innovationen schneller Wirklichkeit werden.
 Wenn wir auf diesem Weg den deutschen und europäischen Standort stärken, stärken wir dabei auch die Idee der sozialökologischen Marktwirtschaft - und eine Wirtschaft, die Verantwortung übernimmt für Gesellschaft und Umwelt, sichere Arbeitsplätze bietet und vor Ort verankert ist: eine Wirtschaft im Dienst der Menschen.
@@ -263,14 +242,14 @@ Zudem setzen wir uns ein für eine breitere Ausgestaltung der Strompreiskompensa
 Wir werden das Wasserstoffkernnetz zügig und bedarfsorientiert aufbauen, die Erzeugung von grünem Wasserstoff in Deutschland fördern und neue Importquellen sichern.
 Gerade die kleinen und mittleren Unternehmen (KMU) leiden besonders unter aufwendiger Bürokratie und oft zu komplizierten Regeln.
 Die Beschleunigung des Ausbaus der Erneuerbaren haben wir maßgeblich durch das Abschaffen bürokratischer Hürden wie Anträge für einzelne
-Stecker ermöglicht.
 Den gleichen Weg müssen wir in allen Bereichen gehen.
 Mit dem Praxischeck haben wir dafür ein pragmatisches und erfolgreiches Instrument zum Abbau unnötiger Bürokratie in Deutschland eingeführt, das wir in der nächsten Legislatur skalieren werden.
 Dabei werden Sektor für Sektor die Betroffenen aus Unternehmen, Verwaltung und Zivilgesellschaft eingebunden, unnötige bürokratische Hürden bestimmt und praktische Lösungen zu deren Abbau identifiziert, ohne soziale oder ökologische Schutzstandards abzubauen.
 Das werden wir nun flächendeckend und systematisch ausrollen und auch in den Gesetzgebungsprozessen vorab umsetzen.
 Bei jeder Gesetzgebung muss die einfache Umsetzbarkeit für die Bürgerinnen, die Unternehmen und die Verwaltung in Ländern und Kommunen im Vordergrund stehen.
 Wir setzen uns für eine regelmäßige Überprüfung von Regulierungen ein, um bürokratische Anforderungen zu vereinfachen und Vorschriften, die ihr Ziel verfehlen, wieder zu streichen, ohne Schutzstandards abzubauen.
-Ein wesentliches Mittel für den Bürokratieabbau ist die Digitalisierung der Verwaltung: Wir wollen, dass zentrale öffentliche Dienstleistungen für Unternehmen an einer Stelle gebündelt werden und Daten nach dem Once-Only-Prinzip nur einmal eingereicht werden müssen.
+Ein wesentliches Mittel für den Bürokratieabbau ist die Digitalisierung der Verwaltung:
+Wir wollen, dass zentrale öffentliche Dienstleistungen für Unternehmen an einer Stelle gebündelt werden und Daten nach dem Once-Only-Prinzip nur einmal eingereicht werden müssen.
 Die Notarpflichten werden wir vereinfachen und reduzieren, um so Kosten zu senken und Zeit zu sparen.
 Damit mehr Unternehmen von den KMU-Ausnahmeregeln profitieren können, werden wir die Schwellenwerte für die Definition von KMU moderat anheben.
 Deutschland ist von früheren Regierungen jahrelang auf Verschleiß gefahren worden.
@@ -279,7 +258,8 @@ Dabei steht hinter jeder öffentlichen Investition realwirtschaftliche Wertschö
 Wir wollen eine starke, resiliente und verlässliche Infrastruktur bereitstellen, indem wir die öffentlichen Investitionen dafür aus nationalen und aus Mitteln der Europäischen Union (EU) stärken und ausbauen.
 Dafür werden wir auch die Schuldenbremse reformieren.
 Der Großteil der Investitionen kommt jedoch von Unternehmen und anderen privaten Akteuren.
-Wer in Deutschland investiert, soll es bei der Steuer leichter haben: Dazu führen wir eine auf fünf Jahre befristete, unbürokratische Investitionsprämie von 10 Prozent für alle Unternehmen und alle Investitionen mit Ausnahme der Gebäudeinvestitionen ein.
+Wer in Deutschland investiert, soll es bei der Steuer leichter haben:
+Dazu führen wir eine auf fünf Jahre befristete, unbürokratische Investitionsprämie von 10 Prozent für alle Unternehmen und alle Investitionen mit Ausnahme der Gebäudeinvestitionen ein.
 Diese Prämie wird mit der Steuerschuld des Unternehmens verrechnet;
 falls die Prämie die Steuerschuld übersteigt, wird sie ausgezahlt.
 Die Wirksamkeit dieser Prämie evaluieren wir durch ein jährliches Monitoring.
@@ -493,7 +473,8 @@ eine Verankerung des Vorsorgeprinzips;
 eine verbindliche Verankerung des Pariser Klimaabkommens, der zentralen Arbeitsschutzkonventionen der Internationalen Arbeitsorganisation (ILO) und des Übereinkommens zur biologischen Vielfalt;
 der Beendigung der missbräuchlichen Nutzung von Schiedsgerichten und die Begrenzung von zukünftigen Investitionsabkommen auf direkte Enteignung und Diskriminierung.
 Europäische Einigung bei der Entscheidung über Abkommen ist uns wichtig.
-Die EU-Lieferkettenrichtlinie ist eine große Errungenschaft: Verbraucherinnen in Europa können sicher sein, dass Produkte, die sie hier kaufen, frei von Ausbeutung und Kinderarbeit entstanden sind.
+Die EU-Lieferkettenrichtlinie ist eine große Errungenschaft:
+Verbraucherinnen in Europa können sicher sein, dass Produkte, die sie hier kaufen, frei von Ausbeutung und Kinderarbeit entstanden sind.
 Wir sorgen dafür, dass die Lieferkettenrichtlinie unbürokratisch in deutsches Recht übertragen wird.
 So schaffen wir einen Binnenmarkt, in dem die europäische Wirtschaft durch unseren Einsatz für das europäische und deutsche Lieferkettengesetz global Verantwortung übernimmt.
 Die Instrumente der Außenwirtschaftsförderung müssen sich am Pariser Klimaabkommen ausrichten.
@@ -501,7 +482,8 @@ Unfaire Handelspraktiken und Marktverzerrungen erfordern entschiedenes Handeln -
 Wir stärken der EU-Kommission in ihren Verhandlungen mit China über Dumping von E-Autos den Rücken, um die Interessen der europäischen Industrie zu wahren.
 Die Schlupflöcher im Zollrecht müssen geschlossen werden, durch die besonders asiatische Onlinehändler wie Temu unsichere Wegwerfprodukte am Zoll vorbeischleusen und europäische Hersteller unterbieten.
 Wer dauerhaft illegale Produkte im großen Stil nach Europa einführt, muss nach dem EU-Gesetz über digitale Dienstleistungen sanktioniert werden.
-Wir werden den europäischen CO2-Zoll CBAM durch eine Ausweitung des Anwendungsbereichs, eine Berücksichtigung der Gesamtemissionen des Herstellers im Herkunftsland und die Nutzung von Standardwerten praxistauglicher und effektiver gestalten.
+Wir werden den europäischen CO2-Zoll
+CBAM durch eine Ausweitung des Anwendungsbereichs, eine Berücksichtigung der Gesamtemissionen des Herstellers im Herkunftsland und die Nutzung von Standardwerten praxistauglicher und effektiver gestalten.
 Damit er die Wettbewerbsnachteile ausgleicht, die europäischen Industrieunternehmen gegenüber Herstellern aus Ländern ohne CO2- Preis entstehen.
 Strategisch wichtige Branchen wie Energie und Telekommunikation werden wir mit einem neuen Investitionsprüfungsgesetz vor Übernahmen schützen.
 Um unsere Unabhängigkeit und ungestörte Lieferketten zu sichern, gehen wir bei Ausschreibungen in Sektoren mit hoher Abhängigkeit entsprechend der Resilienzvorgaben des Net-Zero Industry Acts vor.
@@ -586,11 +568,11 @@ In dieser App kann man künftig mit wenigen Klicks zum Beispiel einen Personalau
 Die App dient als einfache Bedienungsoberfläche für alle Bürgerinnen und als Zielbild für die deutsche Verwaltungsdigitalisierung.
 Im Hintergrund der App bauen wir eine moderne, modulare und standardisierte IT-Architektur im Sinne von „Government as a Platform“, bei der die Verwaltungsdomänen von Bund, Ländern und Kommunen sinnvoll ineinandergreifen, und sichern die langfristige Finanzierung.
 Das Datenschutzcockpit bauen wir als Transparenz- und Steuerungswerkzeug aus.
-Wir setzen uns für eine Gesellschaft ohne digitale Gräben ein: Für Verwaltungsleistungen, aber auch für wesentliche Bereiche der Daseinsvorsorge sollten - wo es nötig ist - analoge Zugänge offen gehalten und Beratungsangebote ausgebaut werden.
+Wir setzen uns für eine Gesellschaft ohne digitale Gräben ein:
+Für Verwaltungsleistungen, aber auch für wesentliche Bereiche der Daseinsvorsorge sollten - wo es nötig ist - analoge Zugänge offen gehalten und Beratungsangebote ausgebaut werden.
 Die Beschäftigten in den Behörden sind motiviert, sie packen an und wollen Prozesse besser machen.
 Wir wollen sie entlasten und mehr Effizienz ermöglichen.
 Dafür fördern wir eine Innovationskultur in der Verwaltung, die offen ist für antragslose Verfahren, risikobereite Entscheidungen, Experimentierfreude, den Einsatz moderner
-Technik.
 Hierfür erhöhen wir die Ermessensspielräume der Entscheiderinnen.
 Wir ermöglichen den Einsatz von Automatisierung und KI- Anwendungen überall, wo sie hilfreich, sinnvoll, diskriminierungsarm und ethisch verantwortbar sind.
 Digitale Kompetenzen sollen zu einem selbstverständlichen Teil der Verwaltungsaus- und -fortbildung werden.
@@ -662,7 +644,8 @@ Die Staatengemeinschaft hat sich mit dem Pariser Klimaabkommen darauf verständi
 Alle großen Länder mit hohen Treibhausgasemissionen haben sich auf diesen Weg gemacht - darauf kommt es an.
 Die EU ist nach den USA und China aktuell der drittgrößte Emittent von klimaschädlichen Emissionen.
 Es kommt also auch auf unser gemeinsames Handeln an.
-Wir haben uns in der EU deshalb gemeinsam auf ein Ziel verpflichtet: Europa soll bis 2050 der erste klimaneutrale Kontinent werden.
+Wir haben uns in der EU deshalb gemeinsam auf ein Ziel verpflichtet:
+Europa soll bis 2050 der erste klimaneutrale Kontinent werden.
 Mit dem europäischen Green Deal haben wir in den vergangenen drei Jahren große Fortschritte auf dem Weg hin zur Klimaneutralität Europas erzielt und gleichzeitig begonnen, die europäische Wirtschaft und Industrie zu modernisieren.
 Das wirkt: Obwohl der Green Deal angegriffen wird, ist die EU auf Kurs, ihre Klimaziele zu erfüllen.
 Jetzt braucht die Wirtschaft Planungssicherheit.
@@ -678,7 +661,8 @@ Es ist klar:
 Wir müssen noch mehr dafür tun, damit der Weg verlässlich ist und alle ihn mitgehen können.
 Wir machen Klimaschutz einfacher, bezahlbarer und lösen Umsetzungsprobleme pragmatisch.
 Dabei setzen wir gezielt verschiedene Instrumente ein - von marktwirtschaftlichen Anreizen wie dem Emissionshandel über eine gezielte Förderung für Wirtschaft und Haushalte bis hin zum Ordnungsrecht.
-Die Anstrengungen lohnen sich: Die klimaschädlichen Emissionen sinken.
+Die Anstrengungen lohnen sich:
+Die klimaschädlichen Emissionen sinken.
 Erstmals ist Deutschland auf einem Kurs hin zum Erreichen der eigenen Klimaziele.
 Es kommt nun darauf an, diesen Kurs zu halten, um weiterhin Verlässlichkeit und Planungssicherheit herzustellen und eine Orientierung für die klimaneutrale Modernisierung unseres ganzen Kontinents zu geben.
 Europa muss nach wissenschaftlichem Rat nun bis 2040 seine Treibhausgasemissionen um mindestens 90 bis 95 Prozent gegenüber 1990 verringern.
@@ -713,14 +697,14 @@ Ergänzt wird dies durch eine steuerliche Förderung, die Menschen mit kleineren
 Zudem sorgen wir für kostensenkenden Wettbewerb und stärken den Verbraucherschutz.
 Damit beenden wir überzogene Preise an Ladesäulen, sodass alle günstigen erneuerbaren Ladestrom nutzen können.
 Wir setzen dabei auf vielfältige Preismodelle, zum Beispiel auch flexible, am Börsenstrom orientierte Preise.
-Wir geben ein Sicherheitsversprechen: Die Einnahmen der CO₂-Bepreisung von_x000D_
+Wir geben ein Sicherheitsversprechen:
+Die Einnahmen der CO₂-Bepreisung von_x000D_
 Gebäudewärme und Transport werden wir_x000D_
 für sozial gerechten Klimaschutz ausgeben.
 Die Einnahmen der CO2-Bepreisung von Gebäudewärme und Transport werden wir für sozial gerechten Klimaschutz ausgeben.
 Einen Großteil dieser Einnahmen werden wir als sozial gestaffeltes Klimageld an Menschen mit niedrigen und mittleren Einkommen auszahlen.
 Für Menschen mit geringen Einkommen werden die CO2-Kosten durch das Klimageld in den meisten Fällen mehr als ausgeglichen.
 Dabei soll das Klimageld gleichmäßig mit den Einnahmen aus der CO2-Bepreisung steigen.
-Das
 Klimageld soll in der nächsten Legislatur so schnell wie möglich eingeführt werden und dann direkt und ohne vorherige Beantragung auf das Konto eingehen.
 Wir werden ein Eine-Million- Balkone-Pro- gramm starten und Menschen mit geringeren Einkommen bei der Anschaffung von Steckersolargeräten unterstützen.
 Derzeit subventioniert der Staat klima- und umweltschädliches Verhalten.
@@ -734,7 +718,8 @@ Wir werden uns dafür einsetzen, dass diese Verschmutzer einen Beitrag zum Ausgl
 Auch in Deutschland gilt für uns ganz klar das Verursacherprinzip:
 Die Verursacherinnen von ökologischen und sozialen Schäden sollen die Kosten tragen.
 So müssen die langfristigen Folgekosten des Kohleabbaus durch die Kohleunternehmen abgesichert werden, um nicht die Allgemeinheit zu belasten.
-Weltweit und bei uns zu Hause: Es sind die Ärmsten, die am stärksten unter den Folgen einer eskalierenden Klimakrise leiden.
+Weltweit und bei uns zu Hause:
+Es sind die Ärmsten, die am stärksten unter den Folgen einer eskalierenden Klimakrise leiden.
 Die Klimakrise ist ein Beschleuniger von Ungleichheit, dem stellen wir uns mit sozial gerechter Klimapolitik und unserem internationalen Einsatz für Klimagerechtigkeit entgegen.
 Ausbeutung und Umweltschäden in der fossilen Lieferkette sind für uns ein weiterer Grund, für saubere, erneuerbare Energie einzutreten.
 Für günstige, verlässliche und klimaneutrale Energie
@@ -742,7 +727,8 @@ Günstiger Strom aus erneuerbaren Energien wie Wind, Sonne, Wasserkraft, Geother
 Er ist auch die Grundlage für ein bezahlbares Leben, denn Wärme und Mobilität werden zunehmend elektrisch.
 Wir halten Kurs beim erreichten Rekord-Ausbautempo und bauen die Infrastruktur so aus, dass sie sicher vor Angriffen ist und der günstige Strom bei Menschen und Unternehmen ankommt.
 Die Zukunft gehört den erneuerbaren Energien - in Form von Strom, Wärme und Wasserstoff.
-In den vergangenen Jahren sind wir auf diesem Weg einen riesigen Schritt vorangekommen: 2024 kamen circa 60 Prozent unseres Stroms aus erneuerbaren Ouellen, 2021 waren es erst 40 Prozent.
+In den vergangenen Jahren sind wir auf diesem Weg einen riesigen Schritt vorangekommen:
+2024 kamen circa 60 Prozent unseres Stroms aus erneuerbaren Ouellen, 2021 waren es erst 40 Prozent.
 Bis 2030 wollen wir 80 Prozent erreichen;
 2035 wird der Strom komplett klimaneutral hergestellt.
 Eigentümerinnen, Mieterinnen, Unternehmen und Kommunen sollen ohne große bürokratische Hürden eigene Energie nutzen oder an Energieprojekten teilhaben können.
@@ -785,7 +771,8 @@ Dementsprechend werden wir in Abstimmung mit unseren europäischen Partnern unse
 Wir stehen für eine endgültige Absage an die umweltzerstörende Gewinnung von Erdöl und Erdgas in ganz Deutschland und möglichst bald auch weltweit - an Land wie auf dem Meer.
 Neue Gas- und Ölförderprojekte sollen nicht mehr genehmigt werden.
 Die Emissionen in der Vorkette werden wir berücksichtigen.
-Eine Rückkehr zur Hochrisikotechnologie Atomkraft ist weder für das Erreichen der Klimaziele noch für die Versorgungssicherheit notwendig und für uns aufgrund der ungeklärten Endlagerfrage, der Kosten und der Gefahr der Verbreitung von atomwaffenfähigem Material keine Option.
+Eine Rückkehr zur Hochrisikotechnologie
+Atomkraft ist weder für das Erreichen der Klimaziele noch für die Versorgungssicherheit notwendig und für uns aufgrund der ungeklärten Endlagerfrage, der Kosten und der Gefahr der Verbreitung von atomwaffenfähigem Material keine Option.
 Der lange geplante und parteiübergreifend beschlossene Atomausstieg hat unser Land sicherer gemacht.
 Um ihn zu vollenden, müssen auch Brennelementefertigung und Urananreicherung in Deutschland beendet werden.
 Die von der russischen Firma Rosatom geplante Beteiligung in Lingen bedeutet ein zusätzliches Sicherheitsrisiko.
@@ -821,7 +808,7 @@ Daher setzen wir uns dafür ein, dass bei Holzverbrennung emittiertes CO2 im Zer
 Für vorsorgende Anpassungen an ein verändertes Klima
 Dürren und Hitzeperioden, Waldbrände, Überschwemmungen und Starkregen kosten Menschenleben, zerstören Wohnhäuser, Straßen und Brücken, schädigen die Landwirtschaft und unsere Lebensmittelerzeugung.
 Indem wir unser Wirtschaften und Leben klimaneutral gestalten, bekämpfen wir ihre Ursachen.
-Aber im Angesicht der sich verschärfenden Auswirkungen der
+Aber im Angesicht der sich verschärfenden Auswirkungen
 Klimakrise müssen wir weitaus stärker Vorsorge leisten.
 Wie groß die Schäden durch die Klimakrise sind, hängt auch davon ab, wie gut wir uns darauf vorbereitet haben.
 Die Anpassung an die Klimakrise ist deshalb eine gesellschaftliche, ökonomische und soziale Kernaufgabe der kommenden Jahre und Jahrzehnte.
@@ -855,7 +842,7 @@ Der Verkehrssektor muss endlich auf seinen Pfad entsprechend den Klimazielen zur
 Dafür werden wir sorgen, da wir die Ideen und Konzepte dafür haben -etwa durch ein zuverlässiges Angebot an Bussen und Bahnen und mit dem klaren Signal hin zur klimafreundlichen E-Mobilität.
 Wir wollen die Mobilität für alle verbessern.
 Wir brauchen eine Grundsanierung unserer Verkehrsinfrastruktur.
-Planungsund Genehmigungsverfahren haben wir stark beschleunigt.
+Genehmigungsverfahren haben wir stark beschleunigt.
 Jetzt gilt es, mit dem Deutschlandfonds eine ausreichende und überjährige Finanzierungsgrundlage für den Erhalt von Straßen und Brücken, für den Ausbau unserer Schieneninfrastruktur sowie unseres öffentlichen Nahverkehrs zu schaffen.
 Hierfür benötigen wir langfristig neue Finanzierungsmodelle, die gleichzeitig verkehrsverlagernde und ökologische Wirkungen beinhalten.
 Damit wollen wir die Finanzierung unserer Infrastruktur auf eine sichere und langfristige Basis stellen.
@@ -869,7 +856,8 @@ Mit der Reform der Lkw-Maut haben wir klare Anreize für die Umstellung auf elek
 Um den Luft- und Schiffsverkehr klimaneutral zu modernisieren, unterstützen wir die Produktion nachhaltiger Kraftstoffe aus erneuerbaren Energien, zum Beispiel E-Kerosin, fördern Technologien zur Kraftstoffeinsparung und den schnellen Aufbau einer klimaneutralen Energieversorgung in Häfen, insbesondere einer klimaneutralen Landstromversorgung.
 Die nachhaltige Entwicklung unserer Häfen untermauern wir mit einem langfristigen Finanzierungskonzept.
 Der Staat kann als Ankerkunde einen Beitrag zum Hochlauf klimafreundlicher Kraftstoffe in der Schiff- und Luftfahrt spielen.
-Ein wichtiger Grundsatz ist jedoch: Klimafreundliche Mobilität muss günstig sein und Tickets im Schienenverkehr bezahlbar.
+Ein wichtiger Grundsatz ist jedoch:
+Klimafreundliche Mobilität muss günstig sein und Tickets im Schienenverkehr bezahlbar.
 Kurzstreckenflüge wollen wir durch eine Verbesserung der Bahn überflüssig machen.
 Die Privilegien für Privatjets wollen wir abschaffen und diese enorm klimaschädliche Fortbewegungsart reduzieren.
 Für die Schaffung neuer Start- und Landekapazitäten im Flugverkehr sehen wir nicht nur aus ökologischen, sondern auch aus wirtschaftlichen Gründen keinen Bedarf.
@@ -920,7 +908,8 @@ In ländlichen Regionen wollen wir Bahnhöfe zu Mobilitätsstationen aufwerten, 
 Zudem wollen wir Busse und Bahnen zu Orten machen, in denen sich Fahrgäste wohlfühlen.
 Neben der Sauberkeit gehört dazu für uns auch die Sicherheit vor Übergriffen, insbesondere gegenüber Frauen.
 Deutschland soll ein Bahnland werden, in dem man seine Wege preiswert, barrierefrei und bequem zurücklegen kann.
-Hier bleibt viel zu tun, aber der Anfang ist gemacht: Immer mehr Menschen fahren Bahn, Takte werden verbessert und neue Züge eingesetzt.
+Hier bleibt viel zu tun, aber der Anfang ist gemacht:
+Immer mehr Menschen fahren Bahn, Takte werden verbessert und neue Züge eingesetzt.
 Unser Ziel ist die beschleunigte Umsetzung des Deutschlandtaktes, der Städte und ländliche Regionen regelmäßig und verlässlich miteinander verbindet.
 Auch europäische Nachtzugverbindungen als komfortable und leicht buchbare Angebote wollen wir deutlich ausbauen.
 Wir setzen uns zudem für günstige, verlässliche und planbare Trassenpreise ein.
@@ -953,7 +942,6 @@ Indem wir die Natur wiederherstellen und schützen, schützen wir uns selbst: he
 Wir schützen die Natur zudem um ihrer selbst willen.
 Damit schaffen wir die Grundlage für gute Lebensqualität und stärken die Demokratie mit einer resilienten Gemeinschaftsstruktur.
 Der Schutz von Klima und Natur soll daher im Grundgesetz verankert werden.
-Eine intakte
 Natur ist mitentscheidend, Klimaneutralität zu erreichen.
 Naturnahe Wälder, Moore und Auen binden billig und effizient CO2 aus der Luft.
 Mit dem Aktionsprogramm Natürlicher Klimaschutz sind wir diese Aufgabe kraftvoll angegangen und haben die Naturschutzfinanzierung in Deutschland vervielfacht.
@@ -962,7 +950,8 @@ Unser Anspruch ist es, dass internationale Vereinbarungen und europäisches Rech
 Europäisch ist ein Meilenstein gelungen: ein Gesetz zur Wiederherstellung der Natur.
 Um das unter Einbeziehung einer naturverträglichen Nutzung schnellstmöglich umzusetzen, werden wir Flächen für die Wiederherstellung von Natur gesetzlich garantiert zur Verfügung stellen.
 Denn auch ökosystembasierter Natur- und Artenschutz liegt in einem überragenden gesellschaftlichen Interesse.
-Dazu wollen wir einen Schub für den Naturschutz: wirksame Maßnahmen gegen weiteren Flächenverbrauch, unbürokratische und schnellere Ausweisung von Naturschutzgebieten und die Übertragung von weiteren geeigneten Flächen ins Nationale Naturerbe sowie zusammenhängende Biotopverbünde und Großschutzgebiete nach dem Vorbild des ostdeutschen Großschutzgebietsprogramms während der Friedlichen Revolution.
+Dazu wollen wir einen Schub für den Naturschutz:
+wirksame Maßnahmen gegen weiteren Flächenverbrauch, unbürokratische und schnellere Ausweisung von Naturschutzgebieten und die Übertragung von weiteren geeigneten Flächen ins Nationale Naturerbe sowie zusammenhängende Biotopverbünde und Großschutzgebiete nach dem Vorbild des ostdeutschen Großschutzgebietsprogramms während der Friedlichen Revolution.
 Frei fließende Flüsse, naturnahe Wälder und Auen, Moore und extensiv genutzte Agrarlandschaft sowie wilde Weiden nehmen dabei eine zentrale Rolle ein und müssen - wo immer möglich - erhalten bleiben oder wiederhergestellt werden.
 Den unnatürlichen und unwirtschaftlichen Ausbau der Flüsse, wie er zum Beispiel an der Mittelelbe oder an der Grenzoder geplant ist, lehnen wir ab und wollen die rechtlichen Grundlagen der grenzüberschreitenden Flusspolitik gemeinsam mit unseren Nachbarländern naturgerecht ausrichten.
 Wir gestalten die Energiewende naturschutzverträglich und lösen unvermeidbare Zielkonflikte zwischen erneuerbaren Energien sowie Natur- und Artenschutz auf der Grundlage neu gewonnener Erkenntnisse und steuern dort, wo es notwendig ist, unter Einbindung des Fachverstandes von Wissenschaft, Naturschutz und Planer*innen nach.
@@ -1008,7 +997,8 @@ Kunststoffhersteller werden wir stärker an den Umweltkosten ihrer Produkte bete
 Spätestens ab 2045 soll kein vermeidbarer Verpackungsmüll mehr anfallen.
 Private Feuerwerke stellen zunehmend eine unzumutbare Belastung für unsere Kommunen dar.
 Auch kommt es zu häufig zur missbräuchlichen Verwendung.
-Daher wollen wir private Feuerwerke reduzieren, um die Auswirkungen auf Menschen, Tiere und Umwelt möglichst gering zu halten: Wir stärken Städte und Gemeinden bei der Einschränkung von Feuerwerk und schaffen Rechtssicherheit bei der Aussprache von Verbotszonen für alle Kategorien von Feuerwerk.
+Daher wollen wir private Feuerwerke reduzieren, um die Auswirkungen auf Menschen, Tiere und Umwelt möglichst gering zu halten:
+Wir stärken Städte und Gemeinden bei der Einschränkung von Feuerwerk und schaffen Rechtssicherheit bei der Aussprache von Verbotszonen für alle Kategorien von Feuerwerk.
 Grundsätzlich halten wir ein ganzjähriges Verkaufsverbot für den Privatgebrauch für geboten und setzen uns für eine bundesweite Umsetzung ein.
 Bei der Reform des europäischen Instruments für die Sicherheit von Chemikalien (REACH-Regelung) wollen wir schneller vorankommen und das erreichte Schutzniveau aufrechterhalten.
 Wir unterstützen einen Ansatz, der die Wechselwirkungen der Chemikalien berücksichtigt und die Risiken für Umwelt und Mensch im Fokus hat.
@@ -1079,7 +1069,6 @@ Die Hoheit über die von der Agrarindustrie erfassten Betriebsdaten muss bei den
 Die Wiedervernässung von Mooren ist ein wichtiger Beitrag zum Biodiversitäts- und Klimaschutz.
 Wir unterstützen Landwirt*innen beim Übergang auf nasse Bewirtschaftung und werden die Rahmenbedingungen so gestalten, dass Genehmigungsverfahren für den Umstieg einfacher und schneller funktionieren und landwirtschaftliche Flächen durch die Wiedervernässung an wirtschaftlicher Attraktivität gewinnen.
 Für die Tierhalter in Deutschland braucht es eine Antwort auf die veränderten Konsumgewohnheiten aus tierethischen, gesundheits-, umwelt- und klimapolitischen
-Gründen.
 Bei stetig sinkendem Fleischkonsum sind industrielle Tierhaltung und Billigexporte keine langfristig tragfähigen Konzepte.
 Zukunftsfähig ist dagegen sowohl im Sinne der Unternehmen als auch der Tiere: weniger Tiere besser halten.
 Tiere brauchen mehr Bewegungsfreiheit.
@@ -1118,7 +1107,8 @@ Wir bringen Agroforstsysteme raus aus der Nische und rein in die Fläche.
 Wir unterstützen die Landwirt*innen dabei, hier Bäume und Ackerkultur zu kombinieren.
 Damit leisten sie einen Beitrag zum Schutz der Böden und Artenvielfalt.
 Genetische Vielfalt wollen wir ebenso fördern wie die Züchtung und Einführung robuster Sorten, die mit weniger Pestiziden und synthetischem mineralischen Dünger auskommen und an die Klimabedingungen angepasst sind.
-Die Förderung schonender Bodenbearbeitung und mechanischer Unkrautregulierung im Aktionsprogramm Natürlicher Klimaschutz führen wir weiter.
+Die Förderung schonender Bodenbearbeitung und mechanischer Unkrautregulierung im Aktionsprogramm
+Natürlicher Klimaschutz führen wir weiter.
 Die ökologische Land- und Lebensmittelwirtschaft ist unser Leitbild, sie spielt eine wichtige Rolle beim Schutz der natürlichen Grundlagen.
 Naturschonende Erzeugungsformen müssen einen Vorteil gegenüber Produktionsweisen haben, die starke Umweltfolgen nach sich ziehen.
 Um das Ziel 30 Prozent Ökolandbau bis 2030 zu erreichen, setzen wir die Biostrategie 2030 konsequent um und stellen die notwendigen Mittel dafür bereit.
@@ -1135,7 +1125,8 @@ Dem wollen wir durch ein neues Bodenschutzgesetz vorbeugen.
 Für gute Ernährung
 Jede und jeder soll selbst und gut entscheiden können, was auf den Teller kommt.
 Aber nicht alle können sich so ernähren, wie sie gern würden.
-Das ist auch eine soziale Frage: Dort, wo Menschen sozial benachteiligt werden, sind ernährungsbedingte Krankheiten besonders häufig.
+Das ist auch eine soziale Frage:
+Dort, wo Menschen sozial benachteiligt werden, sind ernährungsbedingte Krankheiten besonders häufig.
 Deshalb wollen wir die Rahmenbedingungen so gestalten, dass die Wahlfreiheit bei der Ernährung verbessert wird.
 Ein erweitertes pflanzenbasiertes Angebot und eine verständliche Kennzeichnung von Lebensmitteln sollen für Verbraucher*in- nen mehr Auswahl und bessere Entscheidungsgrundlagen liefern.
 Dazu soll auch eine gerechtere Besteuerung pflanzlicher Lebensmittel beitragen.
@@ -1176,13 +1167,12 @@ Illegaler Tierhandel und unkontrollierter Wildtierhandel schaden den Tieren und 
 Sie gehören deshalb beendet.
 Wildtiere gehören in die Wildnis und nicht in Zirkusse, sie sollten auch nicht über gewerbliche Onlineseiten und Wildtierbörsen angeboten werden.
 Kommerzielle Importe von Wildfängen und die Einfuhr von Jagdtrophäen wollen wir beenden.
-KAPITEL 2: EINFACH DABEI SEIN
-FAIR UND BEZAHLBAR
 Die Kraft unseres Landes fußt darauf, dass alle Menschen sich selbstbewusst einbringen und entfalten können.
 Dass ihre Leistung, ihre Erfahrung und ihre Kompetenzen etwas zählen und sich der Einsatz lohnt.
 Die Kraft unseres Landes beruht auf den Menschen, die jeden Tag anpacken, in Fabriken und Büros, in Krankenhäusern und Pflegeheimen, in Kindergärten und Universitäten.
 Es geht darum, die aktuelle Verunsicherung in neue Sicherheit zu verwandeln.
-Denn viele Menschen sind überlastet: Steigende Mieten und hohe Lebenshaltungskosten sowie die steigenden Abgaben und hohen
+Denn viele Menschen sind überlastet:
+Steigende Mieten und hohe Lebenshaltungskosten sowie die steigenden Abgaben und hohen
 Steuern auf Löhne und Gehälter machen das Leben für viele kaum mehr bezahlbar.
 Zu wenig Kitapersonal und -plätze, die aufwendige Suche nach einem Arzttermin oder langwierige Behördengänge machen das Leben anstrengend und kompliziert.
 Die Digitalisierung und der Einsatz von Künstlicher Intelligenz haben Auswirkungen auf immer mehr Bereiche des Alltags und des Arbeitslebens.
@@ -1191,7 +1181,8 @@ Dafür haben sie gute Rahmenbedingungen verdient.
 Alle müssen sich darauf verlassen können, dass der Staat die inklusiven Institutionen bereithält, die sie unterstützen.
 Ein gutes Bildungssystem für alle Kinder und Heranwachsenden ist gleich in mehrfacher Hinsicht der Zentralschlüssel für eine gute Zukunft unseres Landes und unseres demokratischen Gemeinwesens.
 Hier entwickeln sich individuelle Freiheit, die Möglichkeit zu persönlicher Selbstbestimmung ebenso wie die zu gesellschaftlicher Teilhabe.
-Durch Bildung entscheiden sich die Lebenschancen junger Menschen: Das fängt grundlegend mit der Kita an und reicht bis zu Ausbildung oder Studium - und darf dort nicht enden.
+Durch Bildung entscheiden sich die Lebenschancen junger Menschen:
+Das fängt grundlegend mit der Kita an und reicht bis zu Ausbildung oder Studium - und darf dort nicht enden.
 Und das gilt ganz gleich, ob man im späteren Leben im Handwerk, der Wissenschaft, im Dienstleistungsgewerbe oder der Industrie arbeitet.
 Mit der Bildung entscheidet sich zudem, ob wir unser Land fit bekommen für die Anforderungen der neuen Zeit.
 Wir statten die jungen Menschen mit Fähigkeiten aus, die in der neuen, digitalen und klimaneutralen Arbeitswelt unverzichtbar sind.
@@ -1201,7 +1192,8 @@ Wir stärken unsere Bildungssysteme, auch damit sie in Zukunft Kindern mit Migra
 Darüber hinaus stärken wir auch den diskriminierungssensiblen Umgang mit allen Kindern von Anfang an und setzen uns für eine wertschätzende Haltung in der Bildungspolitik ein.
 Gute Arbeit und faire Löhne sind die Grundlage dafür, sich etwas aufzubauen - in materieller Sicherheit.
 Arbeit ist aber auch der Ort, an dem Menschen gemeinsam etwas schaffen und sich als Teil der Gesellschaft erleben.
-Dabei muss es gerecht zugehen: Arbeit muss sicher und gesund sein, mit der Möglichkeit zu Aufstieg und Weiterbildung und so entlohnt sein, dass ein gutes Leben möglich ist.
+Dabei muss es gerecht zugehen:
+Arbeit muss sicher und gesund sein, mit der Möglichkeit zu Aufstieg und Weiterbildung und so entlohnt sein, dass ein gutes Leben möglich ist.
 Ein gerechter Arbeitsmarkt schafft Wertschätzung, gesellschaftlichen Zusammenhalt und ermöglicht Vereinbarkeit von Privatleben, Familie und Beruf.
 Das ist unser Ziel.
 Die Frage des Wohnens ist entscheidend für die Umstände unseres Lebens.
@@ -1339,17 +1331,19 @@ Vorschüsse sollen ihnen Sanierungen ermöglichen.
 Die Effizienz steht zukünftig stärker im Mittelpunkt einer finanziellen Förderung.
 Je kleiner das Einkommen und je mehr Energie eingespart wird, desto höher die Förderung.
 Kleine Sanierungsmaßnahmen wie die isolierte Kellerdecke, die gedämmte oberste Geschossdecke und die Optimierung der bestehenden Heizung erzeugen eine große Wirkung bei geringem Mitteleinsatz.
-Klimaverträgliches Sanieren nützt nicht nur dem Klima, es reduziert auch zukünftige Wohnkosten.
+Sanieren nützt nicht nur dem Klima, es reduziert auch zukünftige Wohnkosten.
 Damit diese positiven Effekte auch bei Mieterinnen ankommen, wollen wir klare Anreize dafür setzen, dass Vermieterinnen verfügbare öffentliche Fördermittel zur Sanierung auch tatsächlich nutzen.
 Auch ist es dringend notwendig, die jährliche Sanierungsrate deutlich zu erhöhen.
 Da die Investitionen der Vermieterinnen nur zeitlich befristet umgelegt werden dürfen, entlasten wir die Mieterinnen.
-Für klimaverträgliches Bauen und Sanieren gibt es viele Wege: Manchmal sind es neue Technologien, manchmal der Rückgriff auf bewährte Bautraditionen, die den Schlüssel dazu liefern.
+Für klimaverträgliches Bauen und Sanieren gibt es viele Wege:
+Manchmal sind es neue Technologien, manchmal der Rückgriff auf bewährte Bautraditionen, die den Schlüssel dazu liefern.
 Über CO2- Bilanzierungen ermitteln wir die beste Umsetzung.
 Die Kreislaufwirtschaft beim Bau ist ebenfalls entscheidend, damit Bauschutt vermieden, Rohstoffe geschont und Material wiederverwendet werden kann.
 Wir führen einen digitalen Gebäudepass für öffentliche Gebäude ein, um die Wiederverwendung von Baustoffen zu fördern.
 Wir reduzieren Vorschriften, die der Kreislaufwirtschaft im Gebäudesektor im Weg stehen.
 Um die Finanzierung von klimafreundlichen Sanierungen zu erleichtern, wollen wir sanierte Gebäude einfacher als taxonomiekonform anerkennen.
-Komfortables, preiswertes und klimaverträgliches Bauen bedarf technischer und rechtlicher Innovationen.
+Komfortables, preiswertes und klimaverträgliches
+Bauen bedarf technischer und rechtlicher Innovationen.
 Wir stehen für eine moderne, nachhaltige Baukultur, in der alle Formen des Zusammenlebens berücksichtigt werden.
 Dieses neue Zusammenspiel sollten wir als Gesellschaft mithilfe des Instruments des Reallabors unkompliziert ausprobieren und daraus lernen.
 Wir wollen lebendige und zukunftsfähige Innenstädte und Ortszentren mit attraktiven und nutzungsdurchmischten Quartieren schaffen.
@@ -1392,7 +1386,8 @@ Als weiteres Standbein setzen wir deshalb auf Einnahmen durch die lokale Besteue
 Wir unterstützen es, dass die Vereinten Nationen (UN) hierfür eine gerechte Grundlage ausarbeiten.
 Das Mehrwertsteuersystem ist ein Flickenteppich ungerechtfertigter Sonderregeln und Ausnahmen.
 Leider waren die Bemühungen vergangener Regierungen für eine überfällige Reform nicht erfolgreich.
-Auch wenn wir wissen, dass eine ganzheitliche Mehrwertsteuerreform ein sehr komplexes und mit vielen Fallstricken verbundenes Unterfangen ist, wollen wir einen erneuten Versuch starten: Über eine aufkommensneutrale Reform werden wir die Mehrwertsteuer vereinfachen, entbürokratisieren und Fehlanreize abbauen.
+Auch wenn wir wissen, dass eine ganzheitliche Mehrwertsteuerreform ein sehr komplexes und mit vielen Fallstricken verbundenes Unterfangen ist, wollen wir einen erneuten Versuch starten:
+Über eine aufkommensneutrale Reform werden wir die Mehrwertsteuer vereinfachen, entbürokratisieren und Fehlanreize abbauen.
 Hierfür werden wir aus der Zeit gefallene Ausnahmen und Sonderregeln streichen.
 Zur gerechteren Verteilung von Vermögen und für faire Aufstiegschancen unterstützen wir Menschen mit kleinen und mittleren Einkommen beim Vermögensaufbau.
 Wir wollen an unsere Erfolge in der letzten Regierung wie die Erweiterung der Förderung von vermögenswirksamen Leistungen anknüpfen, indem wir zum Beispiel den Zuschuss zum Fondssparen bei den vermögenswirksamen Leistungen und den Sparerpauschbetrag spürbar anheben.
@@ -1433,7 +1428,8 @@ Wir wollen, dass Integration in und durch Bildung nicht nur auf dem Papier, sond
 Sie sollen Orte sein, in denen Vielfalt und diskriminierungssensibles Lernen gefördert wird und an denen Menschen ihre Talente und Kreativität entdecken und entfalten können.
 Wenn junge Menschen wieder stärker den Eindruck haben, dass sich ihre Anstrengungen lohnen, weil sie etwas erreichen und sich etwas aufbauen können, können wir viele Potenziale neu entfesseln.
 Um die Chancen für alle Kinder von Anfang an gleich zu gestalten, setzen wir uns für diskriminierungssensible Fortbildungen in der Kindertagespflege und Lehrer*innen- ausbildung ein.
-Den Startschuss für einen Bildungsaufbruch an Schulen haben wir in der Bundesregierung gegeben: Als größtes Bund-Länder-Schulprogramm der Geschichte unseres Landes haben wir mit dem Startchancen-Programm in Höhe von 20 Milliarden Euro gemeinsam für einen kraftvollen Schub für mehr Bildungsgerechtigkeit gesorgt.
+Den Startschuss für einen Bildungsaufbruch an Schulen haben wir in der Bundesregierung gegeben:
+Als größtes Bund-Länder-Schulprogramm der Geschichte unseres Landes haben wir mit dem Startchancen-Programm in Höhe von 20 Milliarden Euro gemeinsam für einen kraftvollen Schub für mehr Bildungsgerechtigkeit gesorgt.
 Aber unser Land braucht deutlich mehr: eine gemeinsame Bildungsoffensive, um noch mehr Schulen, Kinder, Jugendliche und Heranwachsende zu erreichen.
 Mit einem „Zukunftsinvestitionsprogramm Bildung“ wollen wir Hand in Hand mit Ländern und Kommunen bundesweit für mehr Chancen- und Generationengerechtigkeit sorgen.
 Dadurch sorgen wir für moderne und barrierefreie Schulgebäude mit digital ausgestatteten Klassenzimmern, attraktiven Bewegungsräumen, dichten Dächern und funktionierenden Toiletten.
@@ -1486,7 +1482,8 @@ Dabei nehmen wir auch Dritte Orte als Lern- und Begegnungsräume in den Blick.
 Eine berufliche Ausbildung oder ein Studium ebnet gleichwertig einen starken Weg in die berufliche Zukunft.
 Daher werden wir den Deutschen Oualifikationsrahmen gesetzlich verankern.
 Wir wollen nicht, dass finanzielle Gründe oder die soziale Herkunft darüber entscheiden, welcher der beiden Wege eingeschlagen wird.
-Nach der Erhöhung des BAföG in dieser Wahlperiode machen wir es jetzt zukunftsfest, für Studium und berufliche Bildung: Das BAföG soll existenzsichernd und bedarfsgerecht sein.
+Nach der Erhöhung des BAföG in dieser Wahlperiode machen wir es jetzt zukunftsfest, für Studium und berufliche Bildung:
+Das BAföG soll existenzsichernd und bedarfsgerecht sein.
 Deshalb setzen wir einen zuverlässigen Mechanismus ein, um die Bedarfssätze und Freibeträge regelmäßig an die steigenden Lebenshaltungskosten anzupassen.
 Wir prüfen die Absenkung des zurückzuzahlenden Darlehens durch die Erhöhung des Zuschussanteils.
 Wir wollen das BAföG elternunabhängiger gestalten und das Einkommen der Geschwister aus der Berechnung herausnehmen.
@@ -1548,7 +1545,6 @@ Die Elternzeit möchten wir deshalb so gestalten, dass mindestens jeweils ein Dr
 Damit setzen wir Anreize für eine partnerschaftlichere Aufteilung.
 Auch Pflegeeltern sollen Elterngeld erhalten.
 Den Mindest- und Höchstbetrag, der seit der Einführung des Elterngeldes im Jahr 2007 unverändert ist, wollen wir auf 500 bzw.
-2.400 Euro erhöhen.
 Zusätzlich werden wir die Ersatzrate für geringe Einkommen anheben.
 Wir werden mit einer Familienstartzeit entsprechend den Regelungen der Europäischen Union (EU) Vätern und Co-Müt- tern die Möglichkeit geben, sich die ersten zwei Wochen nach der Geburt eines Kindes mit einer Lohnersatzleistung von der Arbeit freizustellen.
 Diese Möglichkeit soll es auch für Alleinerziehende geben und möglichst unbürokratisch bezogen werden können.
@@ -1653,10 +1649,12 @@ In jeder Lebensphase abgesichert
 Für eine gute Gesundheitsversorgung überall
 Viele Menschen in Deutschland spüren, dass unser Gesundheitssystem an seine Grenzen stößt: Haus- und Fachärzt*in- nen sind oft schwer erreichbar, wichtige Medikamente fehlen in Apotheken, Notaufnahmen sind überfüllt und Krankenkassenbeiträge steigen.
 Gleichzeitig erleben Patientinnen und Angehörige überlastete Pflegekräfte und Ärztinnen, die kaum Zeit für Zuwendung und Aufklärung haben.
-Solche Symptome der Überforderung machen deutlich: Es gibt drängende Probleme in unserem Gesundheitswesen, die gelöst werden können und müssen.
+Solche Symptome der Überforderung machen deutlich:
+Es gibt drängende Probleme in unserem Gesundheitswesen, die gelöst werden können und müssen.
 Wir wollen, dass sich alle Menschen in Deutschland auf eine gute wie auch bezahlbare Gesundheitsversorgung und Pflege verlassen können.
 Dabei müssen wir die Ausgaben solidarisch schultern, ohne dass die Versicherten überlastet werden, während andere sich einer gerechten Verantwortungsverteilung entziehen.
-Unser Ziel ist klar: Patientinnen sollen zur richtigen Zeit die richtige Versorgung am richtigen Ort erhalten.
+Unser Ziel ist klar:
+Patientinnen sollen zur richtigen Zeit die richtige Versorgung am richtigen Ort erhalten.
 Um das zu erreichen, braucht es eine bessere Steuerung und Organisation, die sich an den tatsächlichen Bedürfnissen der Menschen orientiert.
 Praxen sollen aber auch weiterhin niedrigschwellig erreichbar sein.
 Deshalb werden wir die hausärztlich-zen- trierte Primärversorgung stärken, um eine bessere Behandlungsqualität und Effizienz zu erreichen.
@@ -1668,7 +1666,8 @@ Unterversorgte Gebiete wollen wir noch wirksamer unterstützen.
 Die Verteilung von niedergelassenen Ärztinnen muss besser organisiert und enger mit der Krankenhausplanung der Länder verknüpft werden.
 Gleichzeitig wollen wir dafür sorgen, dass alle Versicherten einen gleichwertigen Zugang zur Versorgung haben.
 Die bestehende Trennung der Finanzierungssysteme von ambulanter und stationärer Versorgung wollen wir überwinden und stärkere Vernetzung von ambulanten und stationären Angeboten im Gesetz verankern, um bessere Kooperation und Koordination zu fördern.
-Wir sorgen für eine gute Versorgung vor Ort: Mit niedrigschwelligen Gesundheitskiosken ermöglichen wir wohnortnahe Beratung und mit Gesundheitsregionen schaffen wir Verbünde von Krankenhäusern, niedergelassenen Ärztinnen und Versorgungszentren, in denen alle Gesundheitsberufe zusammenarbeiten.
+Wir sorgen für eine gute Versorgung vor Ort:
+Mit niedrigschwelligen Gesundheitskiosken ermöglichen wir wohnortnahe Beratung und mit Gesundheitsregionen schaffen wir Verbünde von Krankenhäusern, niedergelassenen Ärztinnen und Versorgungszentren, in denen alle Gesundheitsberufe zusammenarbeiten.
 Und wir wollen wissenschaftliche Maßnahmen ergreifen, um Fehl- und Überversorgung abzubauen, zum Beispiel durch den Ausbau von Zweitmeinungsverfahren.
 Abrechnungsbetrug und Fehlverhalten im Gesundheitswesen werden wir zusammen mit den Ländern wirkungsvoller begrenzen.
 Gesundheitsfachberufe und Vertragsärztinnen wollen wir von unnötiger Bürokratie und überflüssigen Regressverfahren entlasten und den Sprechstundenanteil für gesetzlich Versicherte erhöhen, damit Patientinnen schneller Termine erhalten.
@@ -1730,7 +1729,8 @@ Dieses Potenzial wollen wir durch die weitere Umsetzung höherer Personalschlüs
 Wir wollen die Repräsentanz der professionellen Pflege im Gemeinsamen Bundesausschuss weiter stärken.
 Unser Ziel sind eine starke berufsständische Vertretung der Pflege und eine hohe Tarifbindung in der Branche.
 Auch die Etablierung von Pflegekammern in allen Bundesländern sehen wir als wichtiges Selbstbestimmungsorgan der Berufsgruppe an.
-Bei der Ausbildung wollen wir die besonderen Bedarfe der pflegebedürftigen Menschen besser berücksichtigen, etwa von LSBTIO* Menschen mit Behinderungen oder Menschen mit Migrationshintergrund.
+Bei der Ausbildung wollen wir die besonderen Bedarfe der pflegebedürftigen Menschen besser berücksichtigen, etwa von LSBTIO*
+Menschen mit Behinderungen oder Menschen mit Migrationshintergrund.
 Für eine solidarische Kranken- und Pflegeversicherung
 Unser Gesundheits- und Pflegesystem ist dafür da, Erkrankungen und Pflegebedürftigkeit vorzubeugen, kranke Menschen zu heilen und Pflegebedürftige gut zu pflegen.
 In den vergangenen Jahren wurden den Versicherungen jedoch viele Kosten zugeschoben, die aus Steuermitteln hätten finanziert werden sollen.
@@ -1803,7 +1803,8 @@ Das gilt heute und morgen, für aktuelle und zukünftige Generationen, also auch
 Die Grundlage dafür bildet das paritätisch finanzierte Umlagesystem der Rentenversicherung, welches ein auskömmliches Einkommen im Alter sichern soll.
 Gleichzeitig stehen unsere Sozialversicherungssysteme durch die demografische Entwicklung, insbesondere durch die bevorstehende Verrentung der geburtenstarken Jahrgänge, vor großen Herausforderungen.
 Wir werden die Kosten des demografischen Wandels gerecht über die Generationen und nach Vermögen und Leistungsfähigkeit verteilen.
-Langjährig in der gesetzlichen Rentenversicherung Versicherte dürfen im Alter eine auskömmliche Rente erwarten.
+Langjährig in der gesetzlichen Rentenversicherung
+Versicherte dürfen im Alter eine auskömmliche Rente erwarten.
 Das gilt auch für künftige Rentner*innen.
 Daher werden wir das gesetzliche Rentenniveau bei mindestens 48 Prozent halten und nachhaltig stabilisieren.
 Auch Menschen mit geringem Einkommen unterstützen wir dabei, auskömmliche Rentenansprüche zu erwerben und so Altersarmut zu vermeiden.
@@ -1814,7 +1815,8 @@ Und wir schaffen Anreize, um ältere Beschäftigte gesünder und länger im Erwe
 Dafür investieren wir auch in Präventions- und Rehamaßnah- men und ermöglichen flexible Übergänge in die Altersrente.
 Um die Renten zu stärken, werden wir auch erneut den Mindestlohn anheben und prekäre Beschäftigung, insbesondere Minijobs, abbauen.
 Um das Alterssicherungssystem gerechter und zukunftsfest zu machen, wollen wir die gesetzliche Rente schrittweise zu einer Bürgerversicherung weiterentwickeln.
-Dafür sollen auch Abgeordnete in die gesetzliche Rente einzahlen und auch nicht anderweitig abgesicherte Selbstständige wollen wir unter fairen Bedingungen einbeziehen.
+Dafür sollen auch Abgeordnete in die gesetzliche Rente einzahlen und
+auch nicht anderweitig abgesicherte Selbstständige wollen wir unter fairen Bedingungen einbeziehen.
 Auch Beamtinnen sollen perspektivisch, unter Beibehaltung des Alimentationsprinzips, in die gesetzliche Rente einbezogen werden.
 Wir halten an der Rente mit 67 fest.
 Wir schaffen daher einen flexibleren Übergang in Altersteilzeit und Vorteile, damit sich die Weiterarbeit neben dem Rentenbezug noch mehr lohnt.
@@ -1828,7 +1830,8 @@ Den Bürgerinnenfonds öffnen wir als fairen und transparenten Weg auch für die
 Generell wollen wir mehr Anreize schaffen, um weitere kostengünstige und ertragreiche Alternativen für die private Altersvorsorge zu schaffen.
 Menschen, die lange in die Rentenkasse eingezahlt haben, aber aus gesundheitlichen Gründen nicht länger arbeiten können, verdienen unsere solidarische Unterstützung.
 Deshalb wollen wir die Erwerbsminderungsrente verbessern.
-Für besonders langjährig Versicherte wollen wir die sogenannte Rente mit 63 beibehalten, welche insbesondere denjenigen zugutekommt, die nach jahrzehntelanger, anspruchsvoller und körperlicher Arbeit ihre Belastungsgrenze erreicht haben.
+Für besonders langjährig
+Versicherte wollen wir die sogenannte Rente mit 63 beibehalten, welche insbesondere denjenigen zugutekommt, die nach jahrzehntelanger, anspruchsvoller und körperlicher Arbeit ihre Belastungsgrenze erreicht haben.
 Für verlässliche soziale Sicherung
 In herausfordernden Zeiten braucht es einen starken und verlässlichen Sozialstaat.
 Denn jeder Mensch hat das Recht auf soziale Teilhabe, auf ein würdevolles Leben.
@@ -1855,8 +1858,6 @@ Die Leistungen sollen so pauschal wie möglich und so individuell wie nötig sei
 Niemand muss kompliziert beantragen, was einfach und nach klaren Regeln und Kriterien direkt ausgezahlt werden kann.
 Diese Reform erfordert einen breiten partizipativen Prozess.
 Für Selbstständige vereinfachen wir daher den Zugang zur freiwilligen Arbeitslosenversicherung.
-KAPITEL 3: FRIEDEN IN FREIHEIT SICHERN
-INNEN UND AUẞEN
 Unsere Demokratie ist das Fundament unseres Landes.
 Unsere Demokratie ist Gemeinsamkeit in Vielfalt und sie ist wehrhaft.
 Sie lebt von einer gemeinsamen demokratischen Kultur ebenso wie von starken rechtsstaatlichen Institutionen.
@@ -1878,7 +1879,6 @@ Zu lange haben wir in Deutschland geglaubt, unsere Sicherheit in Europa sei selb
 Aber unsere Sicherheit wird von außen und innen angegriffen, und beide Dimensionen greifen zunehmend ineinander.
 Sicherheit im 21. Jahrhundert bedeutet, dass unsere Bundeswehr gut ausgerüstet ist, und ebenso, dass wir unsere Bahnstrecken, Häfen und Stromleitungen schützen, Lieferengpässe vermeiden, Cyberangriffe verhindern und unsere Demokratie wehrhaft machen.
 Sicherheit bedeutet: uns unabhängiger machen von autoritären Regimen wie Russland oder
-China.
 Dafür sind wir angewiesen auf ein starkes gemeinsames Europa.
 Die Europäische Union (EU) ist das erfolgreichste Friedensprojekt seit Ende des Zweiten Weltkriegs.
 Wo uns einst Frontlinien und Stacheldraht trennten, später dann Mauern und Grenzposten, verbindet uns heute das Bekenntnis zu Freiheit, Rechtsstaat und Demokratie.
@@ -1899,7 +1899,8 @@ Für demokratischen Zusammenhalt
 Zusammenhalt entsteht dort, wo Menschen zusammenkommen, bei der Arbeit oder in der Schule, beim Sport oder Musik machen oder beim Einsatz für gute Zwecke oder dem gemeinsamen Feiern.
 Im Dorfgemeinschaftshaus, auf dem Fußballplatz oder in Kirchen, Moscheen oder Synagogen und anderen weltanschaulichen Einrichtungen kann Demokratie lebendig werden.
 Dazu gehören auch kulturelle Einrichtungen wie Theater, Kinos, Bibliotheken oder Clubs, die Raum für neue Begegnungen und gemeinsame Erfahrungen oder Projekte geben.
-Geschäfte und Gastronomie sind ebenso ein Teil davon: Wir wollen diese Orte deshalb im Gewerbemietrecht vor Verdrängung schützen.
+Geschäfte und Gastronomie sind ebenso ein Teil davon:
+Wir wollen diese Orte deshalb im Gewerbemietrecht vor Verdrängung schützen.
 Öffentliche Räume, an denen Menschen gern zusammenkommen, weil sie unabhängig ihrer finanziellen Situation Zugang haben und sich wohlfühlen, dienen dem Zusammenhalt der Gemeinschaft.
 Hier wird Kritik geäußert und nach Lösungen gesucht.
 Wir setzen uns ein für eine lebendige regionale Medienlandschaft - und fördern gezielt den Lokaljournalismus.
@@ -1911,7 +1912,8 @@ Für eine Erinnerung, die uns wach hält
 Wir müssen unsere Erinnerung wach halten - auch damit sie uns und unsere Demokratie wach hält.
 Wir tragen Verantwortung für unsere Geschichte und dafür, dass aus unserem Erinnern eine bessere Zukunft erwächst.
 Und diejenigen, die von demokratischen Aufbrüchen und bür- gerschaftlichem Mut berichten.
-Deswegen wollen wir die KZ-Gedenkstät- ten mit ausreichenden Mitteln für den Erhalt des Bestandes, für Forschung und ausstellungspädagogische, mehrsprachige Begleitung und Gedenkveranstaltungen ausstatten.
+Deswegen wollen wir die KZ-Gedenkstät-
+ten mit ausreichenden Mitteln für den Erhalt des Bestandes, für Forschung und ausstellungspädagogische, mehrsprachige Begleitung und Gedenkveranstaltungen ausstatten.
 Die Dokumente der Zentralen Stelle zur Aufklärung nationalsozialistischer Verbrechen sollen der Öffentlichkeit und Forschung langfristig zur Verfügung stehen.
 Besonders in Zeiten erstarkender geschichtsrevisionistischer und extrem rechter Kräfte und nach dem Ableben der Generation der Zeitzeug*innen sind Gedenkstätten wichtige Orte der Vermittlung eines kritischen Geschichtsbewusstseins an heutige und kommende Generationen.
 Deswegen wollen wir allen Schülerinnen ermöglichen, einmal in ihrer Schulzeit eine NS-Gedenkstätte zu besuchen und das auch finanziell unterstützen.
@@ -2035,7 +2037,6 @@ Wir modernisieren das Strafrecht mit dem Ziel, die Justiz zu entlasten.
 Hierfür wollen wir prüfen, welche geringfügigen Delikte außerhalb des Straf- rechts geregelt werden können.
 Wir machen Europa zu einem starken und gemeinsamen Raum des Rechts.
 Dafür stärken wir die Europäische Staatsanwaltschaft (EUStA) und die Agentur der Europäischen Union für justizielle Zusammenarbeit in Strafsachen (Eurojust) und harmonisieren Recht auf Basis hoher verfassungsrechtlicher Grundsätze.
-Für digitale Bürger*innenrechte
 Freiheitsrechte und Bürgerinnenrechte müssen auch im Digitalen durchgesetzt werden.
 Durch die rasanten Fortschritte von KI entstehen große Chancen, aber auch Risiken.
 Wir wollen KI im Rahmen unserer gemeinsamen Werte einsetzen, um große Innovationspotenziale zu heben und einen effektiven Schutz der Menschenrechte und Diskriminierungsfreiheit zu gewährleisten.
@@ -2061,7 +2062,8 @@ Dabei setzen wir neben transparenten Verfahren auch auf regelmäßige Datenschut
 Für eine vielfältige Gesellschaft ohne Diskriminierung
 Wir stehen dafür ein, dass sich alle Menschen entfalten und gleichberechtigt Teil unserer Gesellschaft sein können.
 Wir wollen Diskriminierung überwinden, denn sie schwächt unseren Zusammenhalt.
-Menschen, die zum Beispiel auf dem Wohnungsmarkt, im Gesundheitsbereich oder bei der Arbeit Diskriminierung erfahren, schützt der Rechtsstaat: Wir werden das Allgemeine Gleichbehandlungsgesetz reformieren.
+Menschen, die zum Beispiel auf dem Wohnungsmarkt, im Gesundheitsbereich oder bei der Arbeit Diskriminierung erfahren, schützt der Rechtsstaat:
+Wir werden das Allgemeine Gleichbehandlungsgesetz reformieren.
 Dazu weiten wir Fristen, Diskriminierungsgründe und den Anwendungsbereich aus, führen ein Verbandsklagerecht ein und schließen Schutzlücken.
 Dazu gehört auch der Schutz vor Diskriminierung durch staatliche Stellen.
 Wir wollen, dass Beratungsstellen und Selbstorganisationen langfristig abgesichert und ausgebaut werden sowie die Antidiskriminierungsstelle des Bundes auch in ihren Kompetenzen gestärkt wird.
@@ -2094,7 +2096,6 @@ Die Vielfalt unserer Gesellschaft soll sich auch durch verbindliche Maßnahmen i
 Wir setzen uns deshalb unter anderem dafür ein, dass Vielfalt und eine interkulturelle Öffnung - sowohl personell als auch strukturell - in Behörden strategisch und konsequent gefördert werden und schaffen dafür auch die rechtlichen Grundlagen.
 Wir wollen, dass Einstellungsund Beförderungspraxis diskriminierungssensibel gestaltet werden.
 Mit einem Bundespartizipationsgesetz und einem Partizipationsrat stärken wir die Teilhabe von Menschen mit Migrationsgeschichte.
-Für Frauenrechte
 Eine gerechte Gesellschaft ermöglicht allen Menschen, unabhängig vom Geschlecht, ein selbstbestimmtes Leben.
 Feminismus, der alle in den Blick nimmt, also intersektional ist, und der Einsatz für Frauenrechte sind dafür essenziell.
 Nur wenn Diskriminierung, Sexismus und Frauenfeindlichkeit entschieden bekämpft werden, können Frauen alle Chancen nutzen.
@@ -2115,7 +2116,8 @@ Opfer von Vergewaltigungen brauchen flächendeckend qualifizierte medizinische N
 Diese setzen wir konsequent um, durch verstärkte Präventionsmaßnahmen, den Ausbau der Täterarbeit, konsequente Strafverfolgung und eine verbesserte Datenerhebung.
 Damit bekämpfen wir auch Femizide, also die gezielte Tötung von Frauen aufgrund ihres Geschlechts.
 Zudem prüfen wir, ob das geltende Sexualstrafrecht um eine Neuregelung in der Form der Zustimmungslösung ergänzt werden muss, um Straftaten besser verfolgen zu können.
-Auch der Einsatz von K.-o.- Tropfen und ähnlichen Substanzen bei sexuellen Übergriffen muss als strafverschärfender Umstand in das Strafgesetzbuch aufgenommen werden.
+Auch der Einsatz von K.-o.-
+Tropfen und ähnlichen Substanzen bei sexuellen Übergriffen muss als strafverschärfender Umstand in das Strafgesetzbuch aufgenommen werden.
 Onlinegewalt gegen Frauen wächst in rasantem Ausmaß.
 KI- generierte und echte Nacktbilder werden als Waffe gegen Frauen und Mädchen gezielt eingesetzt.
 Bei der Umsetzung der EU-Richtlinie zur Bekämpfung von Gewalt gegen Frauen setzen wir uns dafür ein, dass die Verbreitung von KI-generierten oder echten Nacktbildern gegen den Willen der Betroffenen grundsätzlich eine Straftat darstellt.
@@ -2128,7 +2130,6 @@ Opfer von Menschenhandel sollen ein sicheres Bleiberecht bekommen, unabhängig v
 Die Rechte und die Gesundheitsversorgung von Sexarbeiter*innen werden wir menschenrechtsbasiert stärken.
 Prostitutionsstätten müssen strenger kontrolliert, die Standards zur Betriebserlaubnis erhöht und die Befugnisse des Zolls erweitert werden, um gesetzlich vorgeschriebene Arbeitsbedingungen zu gewährleisten und die Selbstbestimmung und Sicherheit der Betroffenen sicherzustellen.
 Sobald die Ergebnisse der Evaluation des Prostituiertenschutzgesetzes vorliegen, sollen Bund, Länder und Kommunen sowie Betroffene und Expertinnen auf dieser Grundlage gemeinsam ergebnisoffen beraten, welche Änderungen am Gesetz notwendig sind, um die Situation in der Prostitution zu verbessern, ohne die Prostituierten zu stigmatisieren oder zu kriminalisieren.
-Für Selbstbestimmung
 Frauen machen über die Hälfte der Bevölkerung aus, sind aber noch weit von der Hälfte der wirtschaftlichen und politischen Macht entfernt - in Führungspositionen, in Wirtschaft und Gesellschaft, aber auch in Parlamenten und Kommunalvertretungen.
 Wir sind daher für Frauenquoten in Aufsichtsräten, in Vorständen von großen Unternehmen und für ein Paritätsgesetz zur Wahl des Bundestags.
 Um die Gleichstellung weiter voranzutreiben, werden wir auch in Deutschland die Vorgaben der weitreichenderen EU-Richtlinie zu Führungspositionen konsequent umsetzen sowie Sanktionen bei der Nichterreichung der Ziele einführen.
@@ -2148,7 +2149,6 @@ Politik muss den Rahmen dafür schaffen.
 Noch zu häufig erleben lesbische, schwule, bi, trans* inter* und queere Menschen (LSBTIQ*) zunehmende Gewalt und Diskriminierung.
 Das nehmen wir nicht hin.
 Diesen wollen wir verstetigen.
-Mittel bereitstellen.
 So stärken wir queere Beratungs- und Projektstrukturen.
 Wir wollen den Schutz vor Diskriminierung aufgrund der sexuellen und geschlechtlichen Identität in Artikel 3 des Grundgesetzes verankern und Hasskriminalität gegen LSBTIQ* entschlossen bekämpfen.
 Dazu verbessern wir die Erfassung von queerfeindlichen Straftaten und bauen die Unterstützungsangebote sowie Ansprechstellen in Behörden und in der Justiz weiter aus.
@@ -2197,7 +2197,7 @@ Wir wollen ein Kulturangebot schaffen, das so vielfältig ist wie das Land selbs
 Gegen antidemokratische Bewegungen, die einen ideologischen Kampf gegen unsere offene Gesellschaft führen, arbeiten wir für die Unabhängigkeit und Freiheit der Kultur, der Künstler*innen und ihrer diversen Ausdrucksformen - ob Literatur, Film, Musik, Theater, Tanz oder bildende Kunst, ob Mode, Architektur oder Design, ob Club oder Oper, ob öffentliche Einrichtung oder Teil der großen Kultur- und Kreativwirtschaft.
 Indem wir ein Staatsziel Kultur in ihrer Vielfalt im Grundgesetz verankern, stärken wir Kunst und Kultur umfassend und in der Breite.
 Damit Kultur allen unabhängig von ihrem Wohnort zugänglich ist, bauen wir die kulturelle Infrastruktur aus.
-Das gilt besonders für den ländlichen Raum, den wir mit Programmen wie „Aller.Land“ adressieren.
+Das gilt besonders für den ländlichen Raum, den wir mit Programmen wie „Aller.
 Kulturpolitik wollen wir auf Bundesebene auch institutionell stärken und besser vernetzen.
 Wir wollen die Rahmenbedingungen für Kulturorte, besonders für Clubs- und Livemusikstätten und vor allem in Innenstädten, durch Änderungen beim Lärmschutz, im Baurecht sowie im Gewerbemietrecht verbessern.
 Die großen Bundeskulturinstitutionen sind ein Stabilitätsanker der Kulturlandschaft, und wir wollen sie weiter öffnen.
@@ -2408,7 +2408,6 @@ Hinzu kommt die weiterhin sehr konkrete und ernste Bedrohungslage durch den Isla
 Die wehrhafte Demokratie muss den aktuellen Bedrohungen für die freiheitlich demokratische Grundordnung konsequent entgegentreten.
 Mit frühzeitiger Prävention verhindern wir, dass sich Menschen radikalisieren.
 Wir brauchen Programme wie „Demokratie leben!“, die über Rechtsextremismus und Islamismus im analogen und digitalen
-Raum aufklären.
 Diese Arbeit wollen wir finanziell stärken und dauerhaft mit einem Demokratiefördergesetz gesetzlich absichern.
 Extremistische Netzwerke müssen von den Sicherheitsbehörden frühzeitig erkannt, intensiv beobachtet und Vereinsverbote konsequent ausgesprochen werden.
 Der Staat muss sicherstellen, dass Verfassungsfeindinnen keine öffentlichen Ämter bekleiden und weder in der öffentlichen Verwaltung Verantwortung tragen noch in Sicherheitsbehörden oder Bundeswehr tätig sind.
@@ -2504,7 +2503,8 @@ Deshalb wollen wir die EU erweitern, um unsere Nachbarschaft zu stabilisieren un
 Um positive Anreize zu setzen für Kandidatenländer, die echte demokratische Reformen umsetzen, setzen wir uns für sichtbare Zwischenschritte im Beitrittsprozess ein.
 Parallel werden wir die EU reformieren, um sie handlungsfähiger zu machen.
 Und wir müssen die europäische Demokratie mit ihrem klaren Wertefundament wehrhaft machen.
-Unsere Grundwerte bilden das Fundament der EU. Wenn Mitgliedstaaten dagegen verstoßen, kann das nicht folgenlos bleiben.
+Unsere Grundwerte bilden das Fundament der EU.
+Wenn Mitgliedstaaten dagegen verstoßen, kann das nicht folgenlos bleiben.
 Wir wollen das Rechtsstaatsverfahren nach Artikel 7 des EU-Vertrags nutzbar machen, indem in allen Stufen des Verfahrens Entscheidungen mit qualifizierter Mehrheit getroffen werden können.
 Den Rechtsstaatsdialog möchten wir stärken sowie die Freiräume der Zivilgesellschaft gezielter und europaweit schützen.
 Für uns gilt außerdem: keine EU-Gelder für Antide- mokrat*innen.
@@ -2558,7 +2558,8 @@ So gewinnen wir auch Verbündete für die Reform des multilateralen Systems, fü
 China versucht zunehmend aggressiv, das internationale System nach seinen Interessen umzubauen und den militärischen Druck in der Straße von Taiwan zu erhöhen.
 Für uns ist China systemischer Rivale, Wettbewerber und Partner, doch die Rivalität rückt immer mehr in den Fokus Pekings.
 Mit der ersten China- Strategie der Bundesregierung haben wir begonnen, die jahrelange Naivität in der deutschen China-Politik zu beenden - diese gilt es nun konsequent gemeinsam mit unseren europäischen Partnern umzusetzen und weiterzuentwickeln.
-Dazu zählt auch das sogenannte De-Risking: Wir wollen einseitige und risikoreiche Abhängigkeiten von China abbauen und unsere Handelsbeziehungen breiter aufstellen, um wirtschaftliche Stabilität und politische Handlungsfreiheit langfristig zu gewährleisten.
+Dazu zählt auch das sogenannte De-Risking:
+Wir wollen einseitige und risikoreiche Abhängigkeiten von China abbauen und unsere Handelsbeziehungen breiter aufstellen, um wirtschaftliche Stabilität und politische Handlungsfreiheit langfristig zu gewährleisten.
 Wir stärken unsere Zusammenarbeit mit Partnerstaaten im Indopazifik, insbesondere in den Bereichen Sicherheit, Handel, Klima, Wissenschaft und Technologie.
 Im Rahmen der Ein-China-Politik betrachten wir Taiwan als wichtigen demokratischen Wertepartner und wollen den Austausch intensivieren.
 Dauerhafte Sicherheit für Israelis und Palästinenserinnen ist nur durch einen politischen Prozess und eine verhandelte Zwei-Staaten-Lösung auf Basis der Grenzen von 1967 möglich.
@@ -2591,15 +2592,17 @@ Mit modernen Formen der Beteiligung sollen zudem Impulse von Bürgerinnen aufgen
 Für einen zukunftsfesten Multilateralismus
 Die regelbasierte internationale Ordnung ist das Fundament unseres Friedens.
 Die multilaterale Zusammenarbeit und starke internationale Organisationen sind der Schlüssel zur Bewältigung globaler Herausforderungen.
-Diese Ordnung gerät zunehmend unter Druck: Verstöße gegen die gemeinsamen Regeln nehmen zu, Abschottung und Protektionismus sind auf dem Vormarsch.
+Diese Ordnung gerät zunehmend unter Druck:
+Verstöße gegen die gemeinsamen Regeln nehmen zu, Abschottung und Protektionismus sind auf dem Vormarsch.
 Wir treten ein für eine Welt, in der sich Kooperation vor Konkurrenz und Krieg behauptet und die Stärke des Rechts über das Recht des Stärkeren triumphiert.
 Mit dem UN-Zukunftspakt haben wir den Grundstein für eine Reform der UN gelegt.
 Dazu gehört eine Reform des Sicherheitsrats, mit der wir eine gerechtere Repräsentation der Weltregionen gewährleisten wollen.
 Wir wollen diese Vereinbarungen nun gemeinsam mit den UN-Mitgliedstaa- ten umsetzen.
-Bei anhaltenden Blockaden im Sicherheitsrat setzen wir uns dafür ein, die Möglichkeiten der UN-General- versammlung gemäß den Resolutionen „Uniting for Peace“ und „Veto Initiative“ nutzbar zu machen und so die Handlungsfähigkeit der internationalen Gemeinschaft zu verbessern.
+Bei anhaltenden Blockaden im Sicherheitsrat setzen wir uns dafür ein, die Möglichkeiten der UN-General-
+versammlung gemäß den Resolutionen „Uniting for Peace“ und „Veto Initiative“ nutzbar zu machen und so die Handlungsfähigkeit der internationalen Gemeinschaft zu verbessern.
 Zudem wollen wir uns als Teil einer digitalen Außenpolitik in den UN und in internationalen Foren aktiv für ein globales, offenes und selbstverwaltetes Internet sowie für den verantwortungsvollen Umgang mit Künstlicher Intelligenz einsetzen.
 Mehr Verantwortung in den UN erfordert von Deutschland und der EU, ihr Engagement diplomatisch, finanziell und personell weiter zu verstärken.
-Mittel für humanitäre Hilfe sollen flexibler eingesetzt, mehrjährig vergeben und enger mit entwicklungspolitischen Maßnahmen verzahnt werden, um Herausforderungen in fragilen Kontexten gerecht zu werden, die
+Mittel für humanitäre Hilfe sollen flexibler eingesetzt, mehrjährig vergeben und enger mit entwicklungspolitischen Maßnahmen verzahnt werden, um Herausforderungen in fragilen Kontexten gerecht zu werden,
 Planbarkeit zu verbessern und Krisen nachhaltig vorzubeugen.
 Während die UN eine unverzichtbare Rolle in der humanitären Hilfe einnehmen, wollen wir auch lokale humanitäre Organisationen weiter stärken.
 Durch humanitäre Diplomatie tragen wir dazu bei, dass die Hilfe bei der notleidenden Bevölkerung ankommt und Helfer*in- nen geschützt sind.
@@ -2687,14 +2690,16 @@ Aggressionen und Krieg zu schützen.
 Eine verantwortungsvolle Rüstungsexportpolitik trägt zum Schutz unserer Partner bei und verhindert zugleich, dass mit deutschen und europäischen Waffen Menschenrechte verletzt und autokratische oder diktatorische Regimes unterstützt werden.
 Mit diesem Ziel wollen wir klare, transparente und an Menschenrechten, unseren Werten und Sicherheitsinteressen orientierte Kriterien für Rüstungsexporte auf nationaler und europäischer Ebene stärker gesetzlich verankern - mit vorangehenden Risikoanalysen, einklagbaren Sanktionsmöglichkeiten und Endverbleibskontrollen.
 Für globalen Klimaschutz
-Die Klimakrise ist eine der größten Sicherheitsrisiken des 21. Jahrhunderts: Sie zerstört Lebensgrundlagen, verstärkt Konflikte und zwingt Menschen zur Flucht.
+Die Klimakrise ist eine der größten Sicherheitsrisiken des 21. Jahrhunderts:
+Sie zerstört Lebensgrundlagen, verstärkt Konflikte und zwingt Menschen zur Flucht.
 Sie birgt enorme menschliche und wirtschaftliche Kosten.
 Es ist in unserem unmittelbaren Interesse, die Klimakrise und ihre Folgen abzumildern.
 Viele Staaten haben die Chancen ambitionierter Klimapolitik erkannt:
 Die Energiewende und nachhaltige Technologien stabilisieren nicht nur das Klima, sie schaffen auch massive und nachhaltige wirtschaftliche Wachstumsmöglichkeiten.
 Mit konsequenter Klimapolitik hierzulande und effektiver Klimaaußenpolitik machen wir Deutschland zum Vorreiter und unterstützen gleichzeitig andere Staaten auf ihrem Weg zu klimaneutralem Wohlstand.
 Im Rahmen der Klimakonferenzen haben wir trotz widrigster Umstände erfolgreich für eine Abkehr von den fossilen Energien gestritten, die Energiewende beschleunigt und Klimagerechtigkeit entschieden vorangetrieben.
-Wir haben gezeigt: Es macht einen Unterschied, wenn Grüne am Verhandlungstisch sitzen.
+Wir haben gezeigt:
+Es macht einen Unterschied, wenn Grüne am Verhandlungstisch sitzen.
 Diesen Weg wollen wir fortsetzen.
 Wir setzen uns dafür ein, dass Deutschland und Europa ihren fairen Beitrag zur internationalen Klimafinanzierung leisten, entsprechend den Beschlüssen der internationalen Klimakonferenz COP.
 Im Sinne der Klimagerechtigkeit gilt besondere Unterstützung den vom Klimawandel besonders betroffenen Staaten und Gemeinschaften, gerade in Afrika und den kleinen Inselentwicklungsstaaten.
@@ -2757,7 +2762,8 @@ Das Studium der Pflege wollen wir weiterentwickeln und stärken, um Karrieremög
 Dazu gehört es, neue Rollen wie Advanced Practice Nurses (APN) und Community Health Nurses (CHN) auf Masterniveau zu etablieren.
 Wir wollen die Ausbildungsbedingungen verbessern und die Pflegeassistenzausbildung bundesweit einheitlich regeln.
 Und wir wollen Dokumentationspflichten und Bürokratie in der Pflege auf ein Mindestmaß reduzieren und die Möglichkeiten der KI zur Verbesserung der Arbeitsbedingungen nutzen, damit Pflegekräfte wieder dafür Zeit haben, wofür sie ihren Beruf gewählt haben: den Menschen.
-Bundesweit werden viele Tausend Pflegebedürftige zu Hause von Frauen aus dem östlichen Europa („Live-Ins“) betreut.
+Bundesweit werden viele Tausend
+zu Hause von Frauen aus dem östlichen Europa („Live-Ins“) betreut.
 Hierfür sorgen wir für eine rechtssichere Grundlage für die sogenannte 24-Stunden- Betreuung im familiären Bereich.
 Spekulation und hohe Renditeerwartungen, die zulasten der Versorgungsqualität gehen, sind im Gesundheits- und Pflegebereich fehl am Platz.
 Den Einfluss von Finanzinvestoren begrenzen wir, stellen Transparenz über die Eigentumsverhältnisse von Gesundheits- und Pflegeeinrichtungen her und sorgen so für eine bezahlbare und gerechtere Kranken- und Pflegeversorgung.
@@ -2799,7 +2805,7 @@ Wir wollen das bestehende Religionsverfassungsrecht so weiterentwickeln, dass es
 Wir schützen Menschen, die nicht streng religiösen Dogmen entsprechen, wie zum Beispiel Alevit*innen und Jesid*innen vor Anfeindungen.
 Ein guter Geschichtsunterricht an den Schulen stärkt das Fundament unserer Demokratie.
 Wir pflegen unsere Erinnerungsorte - diejenigen, die das Menschheitsverbrechen der Shoah bezeugen.
-Die Massenverbrechen des Nationalsozialismus sind uns Mahnung: Nie wieder!
+Die Massenverbrechen des Nationalsozialismus sind uns Mahnung:
 Wir intensivieren die Beschäftigung mit Antisemitismus, der ideologischen Grundlage des präzedenzlosen Menschheitsverbrechens der Shoah.
 Dabei nehmen wir explizit auch das fortgesetzte Unrecht nach 1945 in den Blick.
 Die NS-Verbrechen gegenüber Menschen mit Behinderung werden wir weiter aufarbeiten, die Opfer anerkennen und angemessen entschädigen.
@@ -2825,7 +2831,8 @@ Wir wollen für eine faire Vergütung und umfassende Informationsmöglichkeiten,
 Zudem erweitern wir den Katalog gemeinnütziger Zwecke.
 Diejenigen, die von der Ausrichtung der Olympischen Spiele finanziell profitieren, sollen auf die Erträge Steuern zahlen und die für Veranstaltungen üblichen kommunalen Gebühren entrichten.
 Wir wollen das Bundesprogramm zur Sanierung von Sportstätten und Schwimmbädern ausbauen.
-Sport lebt von Fair Play - Maßnahmen gegen Doping und Korruption im Sport müssen ausgebaut und konsequent durchgesetzt werden.
+Sport lebt von Fair Play -
+Maßnahmen gegen Doping und Korruption im Sport müssen ausgebaut und konsequent durchgesetzt werden.
 Fans sind essenziell.
 Deswegen stärken wir Fanprojekte, reformieren intransparente Datensammlungen und weiten das Bundesprogramm gegen Rechtsextremismus und Menschenfeindlichkeit aus.
 Es braucht dafür auch eine attraktive juristische Ausbildung.
@@ -2882,7 +2889,7 @@ Die Behindertenrechtskonvention der Vereinten Nationen (UN) ist dabei Maßstab u
 Mieterinnen von Gewerbe- und Büroflächen wollen wir den barrierefreien Umbau ihrer Gewerbe- und Büroflächen auch in rechtlicher Hinsicht erleichtern und streben eine Ausweitung der bestehenden Förderprogramme der Kreditanstalt für Wiederaufbau (KfW) an.
 Die Reform des Werkstättensystems werden wir dabei im engen Dialog gemeinsam mit den Werkstätten und Betroffenen gestalten.
 Hürden bei Eintritt und Rückkehr ins Berufsleben sowie bei der Qualifizierung beseitigen wir.
-Zusätzlich setzen wir uns dafür ein, dass in den Bundesverwaltungen Modellprojekte für die berufliche Integ- ration von Menschen mit Behinderungen über die gesetzlichen Vorgaben hinaus geschaffen werden.
+Zusätzlich setzen wir uns dafür ein, dass in den Bundesverwaltungen Modellprojekte für die berufliche Integ- ration von Menschen mit Behinderungen über die gesetzlichen Vorgaben hinaus geschaffen werden.
 Modellprojekte für die berufliche Integration von Menschen mit Behinderungen über die gesetzlichen Vorgaben hinaus geschaffen werden.
 EU-Mittel sollen nicht in Arbeitsformen fließen, die Artikel 27 der UN-Behindertenrechtskonvention entgegenstehen.
 Die Erwerbsminderungsrente wollen wir durchlässiger gestalten und hierbei Fehlanreize beseitigen.
@@ -2949,7 +2956,8 @@ Der Asylantrag von Menschen, die in der EU ankommen oder bereits hier sind, muss
 Stattdessen setzen wir auf eine menschenrechtsbasierte Zusammenarbeit mit Dritt- und Transitstaaten, denn mehr geregelte Migration ermöglicht weniger ungeregelte Migration.
 Wir wollen Migration besser ordnen bzw. steuern und hierfür weitere menschenrechtsbasierte Migrationsabkommen abschließen und bestehende zügig umsetzen.
 Wir fördern außerdem die durch Migration und insbesondere zirkuläre Migration entstehenden wertvollen Verbindungen zwischen der Diaspora in Deutschland und den Herkunftsgesellschaften.
-Putins Russland und Lukaschenkos Belarus missbrauchen das Leid von Geflüchteten für geopoliti- sche Interessen.
+Putins Russland und Lukaschenkos
+Belarus missbrauchen das Leid von Geflüchteten für geopoliti- sche Interessen.
 Dauerhafte stationäre Binnengrenzkontrollen lehnen wir deshalb ab.
 Für Freiheit und Sicherheit in Europa müssen wir aber wissen, wer nach Europa kommt.
 Daher sind rechtsstaatliche Kontrollen an den Außengrenzen und eine zuverlässige Registrierung der Menschen unabdingbar.

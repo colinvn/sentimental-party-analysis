@@ -1,6 +1,3 @@
-Beschlussfassung
-außerordentlicher Bundesparteitag 2025
-am 11. Januar 2025, Berlin
 RP01: Worauf es jetzt ankommt
 Am 23. Februar findet die vorgezogene Bundestagswahl statt.
 Es geht um viel bei dieser Wahl.
@@ -56,7 +53,7 @@ Wir kappen unnötige Bürokratie, beschleunigen und digitalisieren die Verwaltun
 Zupackende Politik für die breite Mehrheit der Bürgerinnen und Bürger, die unser Land am Laufen halten und für diejenigen, die nicht auf der Sonnenseite des Lebens stehen.
 Politik mit Maß und Mitte, die verbindet und nicht spaltet.
 Darauf kommt es jetzt an.
-Darüber entscheiden die Wählerinnen und Wähler bei der Bundestagswahl am 23.Februar 2025.
+Darüber entscheiden die Wählerinnen und Wähler bei der Bundestagswahl am 23.Februar
 RP02: Ein neuer Aufschwung für Deutschland
 Viele Menschen machen sich derzeit Sorgen um die Wirtschaft in unserem Land.
 Oder noch schlimmer: Man sorgt sich um den eigenen Arbeitsplatz.
@@ -64,7 +61,8 @@ Es geht um Fragen der Wettbewerbsfähigkeit im globalen Wettstreit moderner indu
 Es geht aber auch um die richtigen Strategien, den Fachkräftebedarf im Handel, in der Gastronomie und in der Verwaltung zu sichern.
 Und es geht nicht zuletzt um Fragen von Bildung, Ausbildung und Weiterbildung, zum Beispiel im Handwerk.
 Wir stehen für eine Wirtschaftspolitik, die Wachstum, soziale Gerechtigkeit und Nachhaltigkeit miteinander verbindet.
-Wir gestalten einen Aufschwung, der bei allen Menschen ankommt.Dafür investieren wir in die Zukunft – in Bildung, Innovation, Digitalisierung und Klimaschutz.
+Wir gestalten einen Aufschwung, der bei allen Menschen ankommt.
+Dafür investieren wir in die Zukunft – in Bildung, Innovation, Digitalisierung und Klimaschutz.
 Wir sorgen dafür, dass unsere Kinder auch in 30 Jahren noch Straßen, Brücken und Schienen nutzen können, und modernisieren unsere Infrastrukturen.
 Diese Investitionen sind einerseits generationengerecht und sie sind andererseits die Grundbedingung dafür, dass Unternehmen in Deutschland wettbewerbsfähig bleiben können.
 Gleichzeitig setzen wir auf gute Arbeit und sichere Arbeitsplätze.
@@ -125,9 +123,9 @@ Durch die Einbeziehung von jungen Gebrauchten sowie Leasingmodellen helfen wir a
 Mit diesem Paket unterstützen wir vor allem Haushalte mit niedrigen und normalen Einkommen beim Umstieg auf ein E-Auto, noch bevor sich die Mobilitätskosten der Verbrenner durch den Anstieg des CO2-Preises deutlich erhöhen.
 Wir wollen diesen Weg gemeinsam mit unseren europäischen Nachbarn gehen und erwarten von der EU-Kommission kurzfristig eine entsprechende Initiative für die ganze Union oder die Freigabe einer solchen deutschen Lösung.
 Ein Großteil der Neuwagen wird gewerblich genutzt.
-Hier werden wir durch bessere
+Hier werden wir durch
 Abschreibungsbedingungen und Änderungen bei der Dienstwagenbesteuerung die Attraktivität der E- Mobilität weiter verbessern.
-Die Kfz-Steuer Befreiung für E-Autos werden wir bis 2035 verlängern.
+Befreiung für E-Autos werden wir bis 2035 verlängern.
 Wir wollen, dass Unternehmen die besten Rahmenbedingungen haben, um in Deutschland zu investieren.
 Wir können etwas tun für unsere Unternehmen und für den Wirtschaftsstandort Deutschland.
 Wir schaffen einen Deutschlandfonds, der öffentliches und privates Kapital mobilisiert, um die wichtigen Investitionsbedarfe erfüllen zu können – etwa bei Strom- und Wärmenetzen, beim Wasserstoffnetz, bei den E- Ladesäulen oder beim Wohnungsbau.
@@ -146,7 +144,7 @@ Investitionsprämie statt bürokratischer Förderprogramme („Made in Germany�
 Das dauert oft zu lange und schafft für die Unternehmen jede Menge unnötige Bürokratie.
 Statt neuer Förderprogramme wird in Zukunft stärker auf eine unkomplizierte Steuerprämie gesetzt, um Zukunftsinvestitionen zu unterstützen.
 Im Wachstumschancengesetz war bereits eine Investitionsprämie für den Bereich der Energieeffizienzmaßnahmen angelegt.
-Mit der neuen Investitionsprämie für bestehende Unternehmen und Neuansiedlungen sollen nun Zukunftsinvestitionen in die Technologien von morgen in der Breite angekurbelt werden: Jede Betriebs- bzw.
+Mit der neuen Investitionsprämie für bestehende Unternehmen und Neuansiedlungen sollen nun Zukunftsinvestitionen in die Technologien von morgen in der Breite angekurbelt werden:
 Unternehmensinvestition in Maschinen und Geräte (aus den sogenannten Ausrüstungsinvestitionen) soll mit 10 Prozent der Anschaffungssumme direkt und unkompliziert über eine Steuererstattung gefördert werden.
 Die erfolgreichen Förderprogramme wie GRW oder GAK für die regionale Wirtschaft werden fortgeführt.
 WennPersonenunternehmen ihre Gewinne wieder investieren, wollen wir sie steuerlich entlasten.
@@ -181,7 +179,6 @@ Für uns steht deshalb die Weiterentwicklung der KI-Strategie an erster Stelle.
 Der Fokus soll dabei insbesondere auf der Entwicklung systemischer Innovationen liegen.
 Dazu zählen unter anderem der Aufbau von branchenspezifischen KI-Ökosystemen sowie die Entwicklung generativer Sprachmodelle für die Bereiche Medizin, Materialforschung und Bildung.
 Dabei soll auf die bestehenden Strukturen der KI-Landschaft in Deutschland aufgebaut und in die Recheninfrastruktur und Kompetenzen an Hochschulen in der Breite investiert werden.
-werden.
 Auch bei der KI-Förderung wollen wir soziale Innovationen und gemeinwohlorientierte Projekte und Strukturen besonders berücksichtigen.
 Weitere Schwerpunkte sollen die Themen Quantencomputing, Robotik sowie Netzwerktechnologien der nächsten Generation sein.
 Wir setzen uns für eine Stärkung der Forschungsförderung, insbesondere in der Grundlagenforschung der Schlüsselindustrien und des GreenTech ein.
@@ -206,8 +203,7 @@ Studien belegen, dass wir mehrere Hunderttausend Fachkräfte pro Jahr für Deuts
 Made in Germany – was war und ist das für ein schönes Qualitätssiegel.
 Und das soll noch lange, lange so bleiben.
 Deutschland ist zu einem Spitzenreiter im Welthandel mit den Motoren und Maschinen des 20.Jahrhunderts geworden.
-Wir wollen, dass Made in Germany auch bei den Technologien des
-21.Jahrhunderts Weltspitze bleibt.
+Wir wollen, dass Made in Germany auch bei den Technologien
 Im harten Wettbewerb einer sich wandelnden Weltwirtschaft steht unser Industrie- und Wirtschaftsstandort unter Druck.
 Wir erleben einen globalen Wettlauf um Technologien, Ressourcen und Standards.
 Ganz konkret geht es um die Frage, ob wir mit den Entwicklungen mithalten und es schaffen, Deutschland als Teil des europäischen Wirtschaftsraums stark für die Zukunft zu machen.
@@ -220,7 +216,8 @@ In den vergangenen Jahren haben verschiedene globale Krisen deutlich gezeigt, da
 In dieser herausfordernden Zeit kämpft die SPD um jeden Industriearbeitsplatz genauso wie um die Wertschöpfung der Zukunft mit ihren neuen, hochqualifizierten Jobs.
 Manchmal haben wir uns an Unternehmen vorübergehend beteiligt, um Arbeitsplätze in einer Krise zu sichern.
 Das werden wir auch in Zukunft tun, wenn das notwendig wird.
-Bei den Technologien sagen wir zweifelsfrei, wo es hingeht: Der klare Fokus liegt auf Elektrifizierung, zum Beispiel beim Auto.
+Bei den Technologien sagen wir zweifelsfrei, wo es hingeht:
+Der klare Fokus liegt auf Elektrifizierung, zum Beispiel beim Auto.
 Aber auch der Wasserstoff wird für unsere Industrie eine ganz wesentliche Rolle spielen, gerade bei den energieintensiven Industrien.
 Damit Wasserstoff in Deutschland wirklich Fuß fassen kann, schaffen wir Leitmärkte für grünen Stahl made in Germany – das heißt, feste Anteile von grünem Stahl, zum Beispiel bei der Bahn oder in Umspannplattformen.
 Wir brauchen außerdem ein klug ausgestaltetes Wasserstoffnetz.
@@ -362,7 +359,8 @@ Daher sollen für uns schrittweise mehr Studierende einen Anspruch haben.
 Langfristig wollen wir das BAföG elternunabhängiger machen.
 Eine schrittweise Rückkehr zum Vollzuschuss streben wir an.
 Darüber hinaus müssen die Bearbeitungszeiten für BAföG-
-Anträge verkürzt werden – durch weitere Digitalisierung und Vereinfachung.Das erfolgreiche Bundesprogramm Junges Wohnen wollen wir fortsetzen und aufstocken, um bezahlbaren Wohnraum für Auszubildende und Studierende zu schaffen.
+Anträge verkürzt werden – durch weitere Digitalisierung und Vereinfachung.
+Das erfolgreiche Bundesprogramm Junges Wohnen wollen wir fortsetzen und aufstocken, um bezahlbaren Wohnraum für Auszubildende und Studierende zu schaffen.
 Darüber hinaus werden wir das duale Studium stärker fördern und die Schutzrechte des Berufsbildungsgesetzes auch auf diesen Ausbildungsweg ausweiten.
 Wir wollen gute Arbeitsbedingungen an Schulen und Kitas.
 Kitas und Schulen müssen attraktive Lern- und Arbeitsorte mit guten Arbeitsbedingungen sein.
@@ -378,7 +376,8 @@ Wie schon beim Startchancenprogramm wollen wir unsere Mittel gezielt dort einset
 Darüber reden, was alles nicht gut ist, das können viele.
 Wir wollen anpacken.
 Für eine gute Zukunft des Landes und unserer Kinder ist heute eine umfassende Modernisierung nötig.
-Dies gilt sowohl für die private Wirtschaft als auch für die öffentliche Daseinsvorsorge: von Kitas, Schulen und Hochschulen, über das Gesundheitssystem bis hin zur Pflege.
+Dies gilt sowohl für die private Wirtschaft als auch für die öffentliche Daseinsvorsorge:
+von Kitas, Schulen und Hochschulen, über das Gesundheitssystem bis hin zur Pflege.
 Auch Klimaschutz (Erneuerbare Energien und Netze), Digitalisierung und Künstliche Intelligenz, erhöhte Verteidigungsbereitschaft und verbesserte Verkehrsinfrastruktur bedürfen einer großen Modernisierungsanstrengung.
 Daher wollen wir eine Ära der Investitionen in die Zukunft begründen und zeitgleich für finanzielle Solidität sorgen.
 Dies erfordert einen gemeinsamen Kraftakt von Bund, Ländern und Kommunen.
@@ -403,7 +402,8 @@ Die aktuelle Schuldenregel ist nicht auf die Herausforderungen unserer Zeit und 
 Deshalb wollen wir die Schuldenregel im Grundgesetz so reformieren, dass Investitionen in die Zukunftsfähigkeit unseres Landes und in den Wohlstand nicht behindert werden.
 Nur so wird das gute Leben auch kommender Generationen möglich.
 Nur so werden die nötigen Spielräume für die verabredeten Ausgaben für Sicherheit und Verteidigung verlässlich gesichert.
-Zusätzlich gilt es, die veralteten Kreditobergrenzen zu reformieren: Neben der Einführung von Ausnahmetatbeständen für wichtige Zukunftsinvestitionen setzen wir uns für eine flexiblere Ausgestaltung der Defizitregel selbst ein.
+Zusätzlich gilt es, die veralteten Kreditobergrenzen zu reformieren:
+Neben der Einführung von Ausnahmetatbeständen für wichtige Zukunftsinvestitionen setzen wir uns für eine flexiblere Ausgestaltung der Defizitregel selbst ein.
 Die Länder sollen Möglichkeiten der Kreditaufnahme erhalten.
 Dies geschieht im Einklang mit den europäischen Fiskalregeln.
 Um in Krisenfällen mehr Sicherheit und langfristigere Planung zu ermöglichen, streben wir eine Reform der Notlagenregelungen an, so dass unser Staat jederzeit und jahresübergreifend handlungsfähig ist.
@@ -433,7 +433,8 @@ Wir wollen die europäische Wirtschaft und ihre Arbeitnehmerinnen und Arbeitnehm
 Um die Eurozone vor ökonomischen Schocks zu schützen, treten wir für eine europäische Arbeitslosenrückversicherung ein, die in Zeiten schwerer wirtschaftlicher Krisen greift.
 So sollen alle Mitgliedstaaten ihre wichtigen sozialen Sicherungsfunktionen auch in Krisenzeiten erfüllen.
 Wir wollen den Mehrjährigen Finanzrahmen reformieren und ihn stärker auf zentrale Politikbereiche der EU ausrichten, die einen erkennbaren europäischen Mehrwert liefern und in diesen verstärkt investieren.
-Die Rückzahlung von Next Generation EU darf nicht zulasten bereits jetzt unterfinanzierter Programme und strategisch wichtiger Investitionen gehen.
+Die Rückzahlung von Next Generation
+EU darf nicht zulasten bereits jetzt unterfinanzierter Programme und strategisch wichtiger Investitionen gehen.
 Durch echte EU-Eigenmittel machen wir die EU finanziell unabhängiger von den nationalen Regierungen.
 Die Regionalförderung der EU (Kohäsionspolitik) hat seit der Wiedervereinigung erheblich dazu beigetragen, strukturschwache Regionen Ostdeutschlands zu wettbewerbsfähigen und lebenswerten Regionen zu entwickeln.
 Dies muss auch zukünftig gesichert sein.
@@ -549,7 +550,7 @@ Das Genossenschaftsprogramm soll verstetigt und ausgebaut werden.
 Wir wollen die in vielen Regionen rasante Preisentwicklung bei Grund und Boden stoppen.
 Wir brauchen eine Trendwende zu einer sozialen Bodenpolitik, denn Boden ist ein unvermehrbares Gut.
 Seine Nutzung soll auch dem Gemeinwohl dienen.
-Um eine langfristige und nachhaltige Stadtentwicklung zu
+Um eine langfristige und nachhaltige Stadtentwicklung
 ermöglichen, müssen Kommunen beim Aufbau von Bodenfonds unterstützt werden.
 Es sollen Modelle unterstützt werden, durch die Kommunen von Bodenwertsteigerungen durch Planung profitieren.
 Das Vorkaufsrecht für Kommunen muss gestärkt werden.
@@ -589,7 +590,8 @@ Wir wollen guten Lohn für alle.
 Die Höhe des gesetzlichen Mindestlohns muss sich an den Empfehlungen der europäischen Richtlinie orientieren, also an mindestens 60 Prozent des mittleren Einkommens in Deutschland.
 Wir werden dafür sorgen, dass dieses europäische Recht von der Mindestlohnkommission künftig berücksichtigt wird.
 Dementsprechend muss der Mindestlohn spätestens ab 2026 bei 15 Euro liegen.
-Gerade in Ostdeutschland, wo viele Regionen nach wie vor mit niedrigeren Durchschnittslöhnen und einer
+Gerade in Ostdeutschland,
+wo viele Regionen nach wie vor mit niedrigeren Durchschnittslöhnen und einer
 geringen Tarifbindung zu kämpfen haben, und in den Berufen, die viele Frauen ausüben, ist wegen der oft schlechten Bezahlung der gesetzliche Mindestlohn von enormer Bedeutung.
 Entscheidend bleibt aber, die Tarifbindung zu stärken, um die Löhne in Ostdeutschland zu stärken und langfristig Löhne oberhalb des Mindestlohns zu sichern.
 Wir werden die Tarifbindung deutlich erhöhen.
@@ -612,11 +614,13 @@ Das ist nicht gerecht und deshalb wollen wir das ändern.
 Der Einkommensteuertarif nimmt derzeit gerade mittlere Einkommen relativ stark in Anspruch.
 Wir wollen die große Mehrheit der Einkommensteuerpflichtigen entlasten (etwa 95 Prozent) und dafür unter anderem Spitzeneinkommen und -vermögen stärker an der Finanzierung des Gemeinwohls und der Modernisierung unseres Landes beteiligen.
 Aufgrund von Steuerbürokratie geben viele Einkommensteuerpflichtige aktuell keine Steuererklärung ab und verzichten somit auch auf mögliche Erstattungen.
-Wir wollen Steuerbürokratie abbauen: Die vorausgefüllte Einkommensteuererklärung soll zumStandard werden.
+Wir wollen Steuerbürokratie abbauen:
+Die vorausgefüllte Einkommensteuererklärung soll zumStandard werden.
 Sobald diese vorliegt, werden die Steuerpflichtigen durch die Finanzbehörden aktiv darüber informiert.
 Mögliche Erstattungen sollen automatischerfolgen.
 Damit sich Mehrarbeit auszahlt, werden Zuschläge für Mehrarbeit, die über die tariflich vereinbarte Vollzeitarbeit hinausgehen, steuerfrei gestellt.
-Wir werden einen neuen steuerlichen Anreiz zur Ausweitung der Arbeitszeit von Teilzeitbeschäftigten schaffen: Wenn Arbeitgeber eine Prämie für die Ausweitung der Arbeitszeit zahlen, werden wir diese Prämie steuerlich begünstigen.
+Wir werden einen neuen steuerlichen Anreiz zur Ausweitung der Arbeitszeit von Teilzeitbeschäftigten schaffen:
+Wenn Arbeitgeber eine Prämie für die Ausweitung der Arbeitszeit zahlen, werden wir diese Prämie steuerlich begünstigen.
 Missbrauch werden wir ausschließen.
 Wir wollen bezahlbare Lebensmittelpreise.
 Die Preise für Lebensmittel sind seit der Corona-Pandemie empfindlich gestiegen.
@@ -679,11 +683,13 @@ Eine Gesellschaft wird davon geprägt, wie gut es den Familien geht.
 Was Familien für unsere Gesellschaft leisten, dürfen wir nicht als selbstverständlich erachten.
 Doch von warmen Worten alleine hat es die Familie nicht leichter.
 Wir machen Familien stark.
-Wir setzen auf ein Maßnahmenpaket, um Kinderarmut weiter zu bekämpfen: mit der Unterstützung der Erwerbseinkommen durch Wohngeld, Kindergeld und Kinderzuschlag, mit Angeboten von Betreuung, Bildung und Pflege, auf die man sich verlassen kann.
+Wir setzen auf ein Maßnahmenpaket, um Kinderarmut weiter zu bekämpfen:
+mit der Unterstützung der Erwerbseinkommen durch Wohngeld, Kindergeld und Kinderzuschlag, mit Angeboten von Betreuung, Bildung und Pflege, auf die man sich verlassen kann.
 Denn der Alltag von Familien ist auch ohne Unterrichtsausfall und überraschende Schließzeiten stressig genug.
 Wir wollen den Eltern mehr Zeit für die Familie geben und Partnerschaftlichkeit fördern.
 Für ein gelingendes Familienleben brauchen berufstätige Eltern Zeit und den nötigen Freiraum, um ihren Alltag partnerschaftlich zu organisieren.
-Wir wollen deshalb eine Familienstartzeit einführen: Väter oder Partnerinnen und Partner sollen sich für die ersten zwei Wochen nach der Geburt eines Kindes bei voller, umlagefinanzierter Lohnfortzahlung freistellen lassen können.
+Wir wollen deshalb eine Familienstartzeit einführen:
+Väter oder Partnerinnen und Partner sollen sich für die ersten zwei Wochen nach der Geburt eines Kindes bei voller, umlagefinanzierter Lohnfortzahlung freistellen lassen können.
 Wir wollen einen gestaffeltenMutterschutz bei Fehlgeburten einführen.
 Wir halten es zudem für richtig, dass die nächste Bundesregierung ein Konzept für einen Mutterschutz für Selbstständige entwickelt.
 Das Elterngeld und die Elternzeit bleiben eine Erfolgsgeschichte.
@@ -757,7 +763,9 @@ Wir wollen in unserem Land ein Gesundheitssystem, in dem alle den gleichen Zugan
 Die Gesundheit aller ist Indikator dafür, wie ein Land Politik macht.
 Unser Ziel ist ein gerechtes Gesundheitssystem, das unabhängig von Krisen eine schnelle und qualitätsvolle Versorgung sichert, ohne die Menschen finanziell zu überlasten.
 Die Unterschiede bei Wartezeiten und Behandlungsmöglichkeiten zwischen privat und gesetzlich Versicherten müssen dringend beseitigt werden.
-Unsere Strukturreformen verbessern Effizienz und Qualität, sie stärken die Prävention und stellen dabei die Bedürfnisse der Patientinnen und Patienten in den Mittelpunkt: Eine verlässliche und sichere Versorgung jederzeit dann, wenn es nötig ist.Leistungsverschlechterungen für die Patientinnen und Patienten lehnen wir ab.
+Unsere Strukturreformen verbessern Effizienz und Qualität, sie stärken die Prävention und stellen dabei die Bedürfnisse der Patientinnen und Patienten in den Mittelpunkt:
+Eine verlässliche und sichere Versorgung jederzeit dann, wenn es nötig ist.
+Leistungsverschlechterungen für die Patientinnen und Patienten lehnen wir ab.
 Wir setzen auf ein solidarisches System einer Bürgerversicherung, das allen
 Menschen gleichen Zugang zu Gesundheitsleistungen in gleicher Qualität ermöglicht.
 Für Beamtinnen und Beamte des Bundes schaffen wir ein echtes Wahlrecht zur gesetzlichen Krankenversicherung durch eine pauschale Beihilfe.
@@ -787,7 +795,6 @@ Bei Nichteinhaltung der Termingarantie sollen sie einen Anspruch auf Beitragsred
 Neben strukturellen Reformen setzen wir auch auf Digitalisierung und Prävention.
 Denn wir haben die Digitalisierung im Gesundheitswesen massiv vorangetrieben, um die Diagnostik und Behandlung zu verbessern und eine schnelle Datenverfügbarkeit zu gewährleisten.
 Die elektronische Patientenakte kommt jetzt nach 20 Jahren Stillstand, und die KI-Medizin wird die Behandlung revolutionieren.
-Ärztinnen
 und Ärzte sowie Pflegekräfte haben zukünftig mehr Zeit für die Patientinnen und Patienten – durch Erleichterung der Dokumentation und Diagnostik durch KI.
 Der digitalisierte Datenaustausch wird schon bald die Erforschung neuer Therapien nachhaltig unterstützen.
 Für die Krebsbehandlung und Demenz wird KI, Heilungen ermöglichen.
@@ -808,16 +815,18 @@ Für Erkrankungen wie Endometriose und Themen rund um Geburt und Wechseljahre we
 Überdies werden wir die Versorgung für Kinder und Jugendliche weiter stärken.
 Ferner wollen wir dafür sorgen, dass die Verbesserungen der letzten Jahre bei der Liefersicherheit von Arzneimitteln schnell für alle Arzneimittel greifen.
 Denn dort, wo die neuen Regeln angewendet werden, gibt es schon heute kaum noch Engpässe.
-Außerdem wollen wir für eine stärkere Produktion von Arzneimitteln in Deutschland und Europa sorgen: Krankenkassen sollen zusammen mit anderen nationalen und europäischen Akteuren größere Mengen an Therapien über längere Zeiträume einkaufen dürfen, wenn diese bei uns hergestellt werden.
+Außerdem wollen wir für eine stärkere Produktion von Arzneimitteln in Deutschland und Europa sorgen:
+Krankenkassen sollen zusammen mit anderen nationalen und europäischen Akteuren größere Mengen an Therapien über längere Zeiträume einkaufen dürfen, wenn diese bei uns hergestellt werden.
 Wir stärken Apotheken vor Ort als wichtige Anlaufstellen für Prävention, Therapiebegleitung und eine sichere Arzneimittelversorgung.
 Wir setzen zudem auf eine starke Gesundheitswirtschaft sowie Forschung und möchten personalisierte Therapiemöglichkeiten für Prävention und Behandlung zu erschwinglichen Preisen gemeinsam vorantreiben.
 Darüber hinaus wollen wir uns auch besser auf zukünftige Ereignisse, wie zum Beispiel eine erneute Pandemie, vorbereiten und das staatliche Krisenmanagement in der Corona-Pandemie u.a. mit einem Bürgerrat umfassend aufarbeiten, um daraus lernen zu können.
 11.Wir kämpfen für menschenwürdige Pflege und deckeln die Pflegekosten.
 Wir haben uns fest vorgenommen unser Pflegesystem zu verbessern.
 Wir stellen das Wohlbefinden der Menschen ins Zentrum.
-Wir schaffen ein solidarisches Pflegesystem, das niemanden zurücklässt, niemanden überfordert und für alle Beteiligten ein gutes Umfeld bietet: Pflegebedürftige, Angehörige und die pflegenden Berufe.
+Wir schaffen ein solidarisches Pflegesystem, das niemanden zurücklässt, niemanden überfordert und für alle Beteiligten ein gutes Umfeld bietet:
+Pflegebedürftige, Angehörige und die pflegenden Berufe.
 Wir verhindern finanzielle Überforderung, begrenzen hohe Eigenanteile, sichern eine umfassende, qualitativ hochwertige Versorgung – zu Hause wie im Pflegeheim – und verbessern die Arbeitsbedingungen durch innovative Lösungen und mehr Zeitausgleich.
-solidarisch finanzierten Pflegesystems nachhaltig zu sichern, werden wir auch Steuermittel maßvoll einsetzen.
+nachhaltig zu sichern, werden wir auch Steuermittel maßvoll einsetzen.
 Wir wollen Pflegeangebote sichern, Pflegekosten deckeln und mehr Zeit für die Pflege von Angehörigen geben.
 Pflegebedürftigkeit darf kein Armutsrisiko sein.
 Deswegen wollen wir das bisherige Nebeneinander von gesetzlicher und privater Pflegeversicherung beenden.
@@ -833,7 +842,8 @@ So werden wir alle Pflegebedürftigen und ihre Angehörigen erheblich entlasten.
 Wir wollen die dafür notwendigen Mittel gerechter finanzieren.
 Besonders in Ostdeutschland, wo die verfügbaren Einkommen vieler Menschen im Vergleich zu Westdeutschland oft niedriger sind, stellt der hohe Eigenanteil für Pflegebedürftige und ihre Familien eine immense finanzielle Belastung dar.
 Durch die Begrenzung dieser Kosten wollen wir sicherstellen, dass niemand aufgrund seines finanziellen Hintergrunds Angst vor den Kosten einer angemessenen Pflege haben muss.
-Gleichzeitig stärken wir damit die Solidarität im Sozialstaat und setzen ein klares Signal: Pflege darf kein Luxus sein, sondern muss für alle bezahlbar bleiben – unabhängig von regionalen und wirtschaftlichen Unterschieden.
+Gleichzeitig stärken wir damit die Solidarität im Sozialstaat und setzen ein klares Signal:
+Pflege darf kein Luxus sein, sondern muss für alle bezahlbar bleiben – unabhängig von regionalen und wirtschaftlichen Unterschieden.
 Außerdem wollen wir den bürokratischen Aufwand reduzieren und die Pflegebedürftigen, ihre Angehörigen sowie die Pflegeeinrichtungen zusätzlich entlasten, z.B. durch eine vereinfachte Antragstellung auf Hilfe zur Pflege.
 Die ambulante Pflege ist und bleibt der wichtigste Anker für eine verlässliche Finanzierbarkeit der sozialen Pflegeversicherung.
 Wer auf Pflege und Unterstützung angewiesen ist, möchte möglichst lange in seiner vertrauten Umgebung bleiben können.
@@ -869,10 +879,12 @@ Gleichzeitig wollen wir die Attraktivität der Ausbildungen steigern, denn die A
 Deshalb setzen wir uns für praxisnahe und kostenfreie Ausbildungen in den Gesundheitsfachberufen ein.
 Einheitliche Standards sollen sicherstellen, dass alle Berufe in diesem Bereich von hoher Ausbildungsqualität profitieren – besonders die therapeutischen Berufe, die stark interdisziplinär arbeiten.
 Unser Ziel ist, dass alle Auszubildenden eine faire Vergütung erhalten und Mitbestimmungsmöglichkeiten im Betrieb haben.
-Gleichzeitig muss die Ausbildungsqualität insgesamt gestärkt werden: In den Pflegeberufen setzen wir uns insbesondere für Nachbesserungen bei der Praxisanleitung und bei den Ärztinnen und Ärzten für verlässliche Regeln bei Vergütungen und Dienstzeiten während des praktischen Jahres ein.
+Gleichzeitig muss die Ausbildungsqualität insgesamt gestärkt werden:
+In den Pflegeberufen setzen wir uns insbesondere für Nachbesserungen bei der Praxisanleitung und bei den Ärztinnen und Ärzten für verlässliche Regeln bei Vergütungen und Dienstzeiten während des praktischen Jahres ein.
 12.Wir kämpfen für Klimaschutz, den sich jeder leisten kann.
 Mittlerweile wissen es alle: Nachhaltigkeit und Klimaschutz kosten.
-Alles so lassen, wie es ist, kostet mehr.Eine große Mehrheit hat den Wunsch, etwas für unser Klima zu tun.
+Alles so lassen, wie es ist, kostet mehr.
+Eine große Mehrheit hat den Wunsch, etwas für unser Klima zu tun.
 Unsere Überzeugung ist: Klimaschutz muss leistbar sein.
 Alle Menschen müssen unabhängig von Einkommen, Vermögen oder Wohnort klimaneutral leben und teilhaben können.
 Niemand kann alleine ein Wärmenetz bauen, neue Bahntrassen legen oder eine E-Ladesäule aufstellen.
@@ -935,10 +947,12 @@ Wir alle spüren, dass das vielerorts nicht mehr der Fall ist.
 Die Bahn ist oft zu spät, das Schienennetz ist überlastetet, Brücken und Straßen sind marode.
 Wenn die Infrastruktur bröckelt, stockt der Verkehr.
 Wir haben entschieden reagiert und Milliardeninvestitionen in unsere Infrastruktur auf den Weg gebracht.
-Diesen Weg gehen wir konsequent weiter: Wir machen unsere Schienen, Straßen und Wasserwege wieder fit und sorgen dafür, dass sie wieder zu einem Standortvorteil für Deutschland werden.
+Diesen Weg gehen wir konsequent weiter:
+Wir machen unsere Schienen, Straßen und Wasserwege wieder fit und sorgen dafür, dass sie wieder zu einem Standortvorteil für Deutschland werden.
 Wir werden Verkehr von der Straße vor allem auf die Schiene und auch auf die Wasserstraße lenken.
 Unser Ziel ist eine nutzerorientierte und klimaneutrale Mobilität.
-Den Weg dahin gestalten wir sozial gerecht: Mobilität muss für alle barrierefrei und bezahlbar sein.
+Den Weg dahin gestalten wir sozial gerecht:
+Mobilität muss für alle barrierefrei und bezahlbar sein.
 Eine Mobilitätswende, die alle Menschen mitnimmt, schafft und sichert Jobs und erweitert die Freiheit der Menschen, so mobil zu sein, wie sie es wollen.
 Wir wollen, dass die Bahn wieder pünktlich fährt.
 Die Grundvoraussetzung für eine pünktliche Bahn ist ein funktionierendes Schienennetz.
@@ -954,11 +968,13 @@ Die neue gemeinwohlorientierte Infrastruktursparte DB InfraGO sowie den Gesamtko
 Insbesondere für mehr Güter auf der Schiene reformieren wir das Trassenpreissystem und fördern die Umsetzung der Digitalen Automatischen Kupplung.
 Wir wollen alle Großstädte an das Fernverkehrsnetz anschließen und mehr ICE-Sprinter, Nachtzüge und europaweite Schnellzugverbindungen einführen.
 Kurze Bahnfahrzeiten sind die erste Alternative zum Kurzstreckenflug.
-Gemeinsam mit der Deutschen Bahn wollen wir Bahnfahren ganz einfach machen: Erstattungen sollen möglichst automatisch ausgezahlt werden, das Deutschlandticket soll besser in Bahn-
+Gemeinsam mit der Deutschen Bahn wollen wir Bahnfahren ganz einfach machen:
+Erstattungen sollen möglichst automatisch ausgezahlt werden, das Deutschlandticket soll besser in Bahn-
 Buchungen integriert werden.
 Wir wollen leistungsfähige und attraktive Bahnhöfe, an denen man gerne eine Pause macht.
 Das Deutschlandticket ist ein großer Erfolg, den wir erhalten wollen.
-Priorität hat dabei Verlässlichkeit: Wir wollen das Deutschlandticket dauerhaft anbieten.
+Priorität hat dabei Verlässlichkeit:
+Wir wollen das Deutschlandticket dauerhaft anbieten.
 Der günstige Preis und die einfache Nutzung sind das Erfolgsrezept des Tickets – wir wollen, dass der Preis dauerhaft auf aktuellem Niveau bleibt.
 Dazu werden wir das Ticket gemeinsam mit den Ländern auskömmlich finanzieren.
 Außerdem setzen wir uns für ein bundeseinheitlich vergünstigtes Deutschlandticket zu einem reduzierten Preis für bestimmte soziale Gruppen wie Seniorinnen und Senioren, Familien mit Kindern, Auszubildende, Studierende, Schülerinnen und Schüler oder Menschen mit Behinderung ein.
@@ -976,7 +992,8 @@ Im Sinne einer nachhaltigen Zukunft ist das eine großartige Entwicklung.
 Aber: Für viele ist das Auto ein unverzichtbarer Begleiter.
 Wer heute Verbrenner fährt, für den wollen wir beim nächsten Autokauf oder Leasing den Umstieg auf ein E-Auto attraktiv machen.
 Den flächendeckenden Ausbau der Ladeinfrastruktur für Pkw und Lkw treiben wir weiterhin zielgerichtet voran.
-Neben der neuen Förderung für E-Autos wollen wir das Fahrerlebnis mit Stromern rundum stärken: Unser Ziel sind Schnellladesäulen auf jedem Supermarktparkplatz und an jeder Tankstelle.
+Neben der neuen Förderung für E-Autos wollen wir das Fahrerlebnis mit Stromern rundum stärken:
+Unser Ziel sind Schnellladesäulen auf jedem Supermarktparkplatz und an jeder Tankstelle.
 Wir wollen ein kontaktloses und einheitliches Bezahlsystem an allen Ladesäulen und das eigene Auto als Stromspeicher zu Hause ermöglichen.
 Das Tanken an der öffentlichen Ladesäule darf nicht mit hohen Preisaufschlägen bestraft werden.
 Der Führerschein ist für viele junge Menschen einfach zu teuer geworden.
@@ -991,7 +1008,6 @@ Wir stärken ein innovatives Taxigewerbe als Teil der öffentlichen Daseinsvorso
 Das deutsche Autobahnnetz muss aber dringend saniert werden, insbesondere die Brücken.
 Wir bringen einen neuen Bundesmobilitätsplan auf den Weg.
 Auch künftig sollen Engpässe auf der Straße beseitigt
-werden.
 Dabei denken wir Infrastruktur integriert: Wo möglich, soll über Schiene oder Wasserstraße entlastet werden.
 Wir wollen ein Tempolimit von 130 km/h auf Bundesautobahnen einführen.
 Ein Tempolimit bringt so viele Vorteile, dass man fast gar nicht begründen kann, es nicht einzuführen.
@@ -1000,7 +1016,8 @@ Wenn ein Tempolimit Menschenleben schützt, warum tun wir das nicht?
 Wenn ein Tempolimit Stress, Staus und Unfälle massiv reduziert, warum tun wir das nicht?
 Wenn ein Tempolimit gut für die Natur, das Klima und die umliegende Wohngegend ist, warum führen wir es nicht ein?
 Es ist Zeit.
-Die Beschaffung von klimafreundlichen Lkw und Nahverkehrsbussen werden wir fördern: Hier können besonders schnell CO2-Emissionen eingespart werden.
+Die Beschaffung von klimafreundlichen Lkw und Nahverkehrsbussen werden wir fördern:
+Hier können besonders schnell CO2-Emissionen eingespart werden.
 Wir treten dem Mangel an Fahrerinnen und Fahrern im Straßengütertransport aktiv entgegen und setzen menschenwürdige, faire und attraktive Arbeitsbedingungen für Berufskraftfahrerinnen und -fahrer inner- und außerhalb ihres Fahrzeugs durch, zum Beispiel die Aufnahme der Lkw-Fahrkabine in den Schutz der Arbeitsstättenverordnung.
 Den Weg zu einem klimaneutralen Luftverkehr wollen wir im Sinne eines fairen Wettbewerbs (Level- Playing-Field) für unsere Flughäfen und Airlines gestalten.
 Wir streben EU-weit einheitliche Regelungen an, die die Verlagerung von CO2-Emissionen (Carbon Leakage) vermeiden.
@@ -1082,7 +1099,8 @@ Neben der medizinischen Rehabilitation hat die soziale Rehabilitation für uns h
 Wir wollen den Verbraucherschutz stärken.
 Dank unseres starken Verbraucherschutzes sind die Produkte und Dienstleistungen, die man in Deutschland kaufen kann, sicher und unbedenklich.
 Das ist eine Errungenschaft, die wir verteidigen werden.
-Doch es braucht noch mehr: Verbraucherinnen und Verbraucher benötigen handlungsfähige Marktaufsichtsbehörden und eine Wettbewerbsaufsicht an ihrer Seite, die den Verbraucherschutz an die erste Stelle setzen.
+Doch es braucht noch mehr:
+Verbraucherinnen und Verbraucher benötigen handlungsfähige Marktaufsichtsbehörden und eine Wettbewerbsaufsicht an ihrer Seite, die den Verbraucherschutz an die erste Stelle setzen.
 In diesem Sinne wollen wir den Verbraucherschutz auf nationaler und europäischer Ebene stärken.
 Dies gilt insbesondere im digitalen Raum.
 Hier bedarf es eines besonderen Schutzes gegen Abzocke und Manipulation, insbesondere für Kinder und Jugendliche.
@@ -1124,7 +1142,7 @@ Wir fördern die Strukturen historischer Bildung und Forschung, sei es in Univer
 Wir wollen Bürgerräte als festen Bestandteil unserer Demokratie etablieren.
 Geloste Bürgerräte beraten zu schwierigen Themen und stärken das Vertrauen in die Demokratie.
 Sie machen Demokratie erlebbar, indem sie Menschen mit unterschiedlichen Positionen zum Austausch einladen, zur Kompromissfindung ermutigen und erreichen, dass der Interessenausgleich als Kern der Demokratie verstanden wird.
-Ihre Empfehlungen fließen in die parlamentarischen Beratungen ein, während die Entscheidungen bei den
+Ihre Empfehlungen fließen in die parlamentarischen Beratungen ein, während die Entscheidungen bei
 gewählten Institutionen bleiben.
 Eine lebendige Zivilgesellschaft ist das Rückgrat unserer Demokratie.
 Mit dem Demokratiefördergesetz schaffen wir die Grundlage, zivilgesellschaftliche Initiativen, die durch Programme wie das Bundesprogramm "Demokratie leben!" gefördert werden, nachhaltig zu unterstützen.
@@ -1135,7 +1153,6 @@ Gleichzeitig schützen wir ihre Aufsichtsgremien vor rechtsextremen Einflussnahm
 Staatliche Institutionen sollen die Vielfalt unserer Gesellschaft widerspiegeln.
 Mit gezielten Maßnahmen schaffen wir eine Kultur der Offenheit und Integration im öffentlichen Dienst.
 Kirchen und Religionsgemeinschaften leisten einen wertvollen Beitrag für unser Zusammenleben.
-Wir
 fördern den interreligiösen Dialog und schützen die Religions- und Weltanschauungsfreiheit.
 Wir wollen Diskriminierung entschlossen bekämpfen.
 Diskriminierung verletzt die Würde der Betroffenen, gefährdet den gesellschaftlichen Zusammenhalt und untergräbt das Vertrauen in eine gerechte Gesellschaft.
@@ -1146,7 +1163,8 @@ Wir wollen das Allgemeine Gleichbehandlungsgesetz (AGG) modernisieren, um effekt
 Wir wollen Extremismus vorbeugen und bekämpfen.
 Ausnahmsweise kämpfen wir mal nicht für etwas, sondern tatsächlich gegen etwas, und zwar gegen den Extremismus.
 Denn wir wissen, wie gefährlich er sein kann für eine Gesellschaft.
-Menschen, die aus Verunsicherung oder Frust an der Demokratie zweifeln und sich abwenden, machen wir ein Angebot: Wir wollen durch bessere Bürgerbeteiligung und nachvollziehbare Entscheidungen die demokratische Mitgestaltung unseres Landes verbessern und verloren gegangenes Vertrauen zurückgewinnen.
+Menschen, die aus Verunsicherung oder Frust an der Demokratie zweifeln und sich abwenden, machen wir ein Angebot:
+Wir wollen durch bessere Bürgerbeteiligung und nachvollziehbare Entscheidungen die demokratische Mitgestaltung unseres Landes verbessern und verloren gegangenes Vertrauen zurückgewinnen.
 Im Kampf gegen Extremismus setzen wir zuvorderst auf Prävention, um extremistische Tendenzen und Demokratiefeindlichkeit frühzeitig zu bekämpfen.
 Präventive Maßnahmen werden gezielt entwickelt und umgesetzt, um solche Entwicklungen bereits im Keim zu ersticken.
 Die Arbeit der Task Force Islamismusprävention wird uns hier wichtige Hinweise geben.
@@ -1158,7 +1176,6 @@ Der Schutz unserer Demokratie hat oberste Priorität.
 Hierzu werden wir auch weiterhin prüfen, wie wir den Zugang zu Waffen noch besser kontrollieren und Extremisten noch schneller entwaffnen können.
 Personen mit psychischen Vorbelastungen dürfen keinen Zugriff auf Waffen haben.
 Wir bekämpfen Islamismus mit ganzer Kraft und voller Härte und stärken die Islamismusprävention
-weiter.
 Wir entziehen Islamisten Räume und Finanzen und zeigen damit klar, dass Islamismus und Antisemitismus keinen Platz in Deutschland haben.
 Wir wollen zivilgesellschaftliche Initiativen stärken, der Radikalisierung vorbeugen, und zugleich die Sicherheitsbehörden mit den nötigen Mitteln ausstatten, um islamistische Netzwerke konsequent zu zerschlagen.
 Verfassungsfeinde haben im öffentlichen Dienst keinen Platz.
@@ -1199,7 +1216,8 @@ Besonders im wichtigen Kampf gegen die Organisierte Kriminalität müssen wir si
 Wir wollen die Gründung einer interdisziplinären unabhängigen Bundesakademie für Prävention und Kriminalwissenschaften voranbringen.
 Sie soll einen Überblick über wirksame Konzepte der Kriminalprävention liefern, Standards schaffen und bei der Implementierung neuer Präventionsvorhaben unterstützen.
 So soll zudem einen Knotenpunkt für Kriminalwissenschaftenvorhaben bilden und einen Wissenstransfer in die Praxis ermöglichen.
-Wir stärken die gesamte Rechtsstaatskette: Neben den Sicherheitsbehörden wollen wir die Staatsanwaltschaften und (Straf-Gerichte stärken.
+Wir stärken die gesamte Rechtsstaatskette:
+Neben den Sicherheitsbehörden wollen wir die Staatsanwaltschaften und (Straf-Gerichte stärken.
 Die Justiz darf nicht zum Flaschenhals werden.
 Mit einem erneuten Pakt für den Rechtsstaat werden wir gemeinsam mit den Ländern die Justiz personell und materiell besser ausstatten.
 Zudem wollen wir die Strafprozessordnung auf Effektivität reformieren und die Digitalisierung der Justiz mit bundesweit kompatiblen Systemen fortsetzen.
@@ -1214,17 +1232,18 @@ Jede ohne eindeutiges Einverständnis vorgenommene sexuelle Handlung muss unter 
 Wir verbessern die Strafverfolgung und unterstützen die Einrichtung von Schwerpunktstaatsanwaltschaften durch die Länder.
 Wir setzen uns für eine vollständige Umsetzung der Istanbul-Konvention ein.
 Häusliche Gewalt und Partnerschaftsgewalt sind auch im Sorge- und Umgangsverfahren zu berücksichtigen.
-Wir stellen erhebliche sexuelle Belästigungen unter Strafe: Unerwünschte, erniedrigende Handlungen wie
+Wir stellen erhebliche sexuelle Belästigungen unter Strafe:
+Unerwünschte, erniedrigende Handlungen wie
 „Catcalling“ sollen künftig strafrechtlich verfolgt werden können.
 Damit wollen wir Betroffene besser schützen und gesellschaftliche Grenzen klar aufzeigen.
-Mit einer Verschärfung des Gewaltschutzgesetzes wollen wir Betroffenen häuslicher Gewalt und anderer Nachstellungen besser schützen: Maßnahmen wie elektronische Fußfesseln, verpflichtende Anti-Gewalt- Trainings für Täter und Aufenthaltsverbote sowie Hausarreste bieten besseren Schutz vor Tätern und ermöglichen eine engmaschigere Überwachung in Gefahrensituationen.
+Mit einer Verschärfung des Gewaltschutzgesetzes wollen wir Betroffenen häuslicher Gewalt und anderer Nachstellungen besser schützen:
+Maßnahmen wie elektronische Fußfesseln, verpflichtende Anti-Gewalt- Trainings für Täter und Aufenthaltsverbote sowie Hausarreste bieten besseren Schutz vor Tätern und ermöglichen eine engmaschigere Überwachung in Gefahrensituationen.
 Hierfür passen wir die einschlägigen Rechtsgrundlagen an.
 Wir wollen, dass geschlechtsspezifische Gewalt EU-weit als Straftatbestandfestgeschrieben wird.
 Unser Ziel sind einheitliche Standards im Schutz und in der Strafverfolgung in allen Mitgliedstaaten.
-Wir wollen einen Anspruch auf Schutz und Beratung: Mit einem bundesweiten Rechtsanspruch stellen wir sicher, dass Betroffene jederzeit Zugang zu Schutzunterkünften wie Frauenhäusern und Beratungsstellen
-erhalten.
+Wir wollen einen Anspruch auf Schutz und Beratung:
+Mit einem bundesweiten Rechtsanspruch stellen wir sicher, dass Betroffene jederzeit Zugang zu Schutzunterkünften wie Frauenhäusern und Beratungsstellen
 Wir wollen mehr Vorbeugung gegen geschlechtsspezifische und häusliche Gewalt.
-Mit dem
 Gewalthilfegesetz wollen wir diese Strukturen weiter ausbauen und nachhaltig absichern.
 Wir bekämpfen konsequent Menschenhandel und jede Art sexueller Ausbeutung.
 Betroffene müssen schnell Schutz und Hilfe bekommen.
@@ -1329,7 +1348,7 @@ Als nächsten Schritt streben wir ein Gleichstellungsgesetz für die Privatwirts
 Wir werden uns dafür einsetzen, dass eine EU-Charta der Frauenrechte verabschiedet und somit ein effektiver Schutz von Frauenrechten in der ganzen EU gewährt wird.
 Wir wollen gegen Lügen, Hass und Hetze vorgehen.
 Wir schließen die Schutzlücken bei menschenverachtender Hetze.
-Rechtsextreme Äußerungen von Amtsträgerinnen und Amtsträgern sowie in Schulen werden wir besonders in den Blick nehmen und den Volksverhetzungsparagrafen entsprechend überarbeiten.
+Äußerungen von Amtsträgerinnen und Amtsträgern sowie in Schulen werden wir besonders in den Blick nehmen und den Volksverhetzungsparagrafen entsprechend überarbeiten.
 Wir verbessern den Datenschutz bei Hassdelikten.
 Im Strafverfahren soll die Wohn- oder Aufenthaltsanschrift künftig nicht mehr durch Akteneinsicht offengelegt werden müssen, um Betroffene besser zu schützen.
 Hasskriminalität im Internet und gezielte Desinformationskampagnen gefährden unsere Demokratie.
@@ -1337,9 +1356,11 @@ Wir werden konsequent dagegen vorgehen und die Zentralstelle für strafbare Inha
 Wir stärken die neue Ansprechstelle für Kommunalpolitik im Deutschen Forum Kriminalprävention.
 Wir wollen queere Lebensentwürfe noch besser vor Diskriminierung schützen.
 Wir wollen den Schutz vor Diskriminierung im Grundgesetz (GG) explizit auf sexuelle Orientierung und geschlechtliche Identität erweitern.
-Artikel 3 Abs. 3 GG werden wir daher entsprechend erweitern.
-Wir wollen dafür sorgen, dass alle Diskriminierungen queerer Familien („Regenbogenfamilien“) im Familien- und Abstammungsrecht aufgehoben werden: Queere Familien sollen im Familien- und Abstammungsrecht vollständig gleichgestellt werden.
-Den Aktionsplan „queer Leben“ der Bundesregierung werden wir unter Beteiligung der Zivilgesellschaft weiterentwickeln: Der Aktionsplan wird in Zusammenarbeit mit der Zivilgesellschaft fortgeschrieben, um die Lebensrealität queerer Menschen besser zu berücksichtigen.
+GG werden wir daher entsprechend erweitern.
+Wir wollen dafür sorgen, dass alle Diskriminierungen queerer Familien („Regenbogenfamilien“) im Familien- und Abstammungsrecht aufgehoben werden:
+Queere Familien sollen im Familien- und Abstammungsrecht vollständig gleichgestellt werden.
+Den Aktionsplan „queer Leben“ der Bundesregierung werden wir unter Beteiligung der Zivilgesellschaft weiterentwickeln:
+Der Aktionsplan wird in Zusammenarbeit mit der Zivilgesellschaft fortgeschrieben, um die Lebensrealität queerer Menschen besser zu berücksichtigen.
 Die SPD steht hinter dem Selbstbestimmungsgesetz und den bisherigen queerpolitischen Errungenschaften.
 Ein Zurück wird es mit uns nicht geben.
 18.Wir kämpfen für Medienvielfalt, für Vielfalt in Kunst und Kultur und für einen starken Sport.
@@ -1424,7 +1445,8 @@ Dazu werden wir das professionelle Umfeld für Trainerinnen, Trainer sowie Athle
 So schaffen wir die Grundlage für langfristigen Erfolg, fördern Talente und unterstützen die sportliche Vielfalt in Deutschland.
 Wir wollen Sport als Staatsziel im Grundgesetz verankern, um mit der Kraft des Sports Gesundheit, soziale Teilhabe, Inklusion und Integration zu stärken.
 Wir helfen Ländern, Kommunen und Vereinen bei der Sanierung von Sportstätten und erhöhen die Attraktivität und Zugänglichkeit des Ehrenamtes im Breitensport.
-Wir schreiben Schutz vor Gewalt im Sport groß: Deshalb stehen wir weiter an der Seite des Zentrums für Safe Sport zur Bekämpfung physischer, psychischer und sexualisierter Gewalt.
+Wir schreiben Schutz vor Gewalt im Sport groß:
+Deshalb stehen wir weiter an der Seite des Zentrums für Safe Sport zur Bekämpfung physischer, psychischer und sexualisierter Gewalt.
 Wir sagen Ja zu Sportgroßveranstaltungen in Deutschland und unterstützen den Deutschen Olympischen Sportbund bei der Bewerbung für Olympische Spiele und Paralympics in Deutschland.
 19.Wir kämpfen für starke Kommunen, gleiche Chancen in Land und Stadt und eine zukunftsfähige Landwirtschaft.
 Wir wollen, dass Menschen frei wählen können, ob sie in der Stadt oder auf dem Land leben – mit gleichen Chancen überall.
@@ -1454,7 +1476,8 @@ Mehr denn je erfüllen die Kleingärten heute eine wichtige ökologische Ausglei
 Wir wollen Natur und Ökosysteme schützen.
 Um Natur und Ökosysteme im Einklang mit europäischen und internationalen Verpflichtungen zu schützen, braucht es effektive Maßnahmen in bestehenden Schutzgebieten und die Vernetzung ökologisch wertvoller Flächen.
 Wir wollen eine Flächenplanung, die Wildnis- und Kulturlandschaften und heimische Arten schützt und ein konfliktfreies Miteinander von Land- und Energiewirtschaft, Tourismus, Industrie, Wohnen und Naturschutz ermöglicht.
-Mittel aus dem Aktionsprogramm Natürlicher Klimaschutz und dem Naturschutzfonds sollen flächendeckend eingesetzt werden, um Wälder, Moore, Flussauen oder Stadtgrün zu schützen.
+Mittel aus dem Aktionsprogramm
+Natürlicher Klimaschutz und dem Naturschutzfonds sollen flächendeckend eingesetzt werden, um Wälder, Moore, Flussauen oder Stadtgrün zu schützen.
 Wir wollen Meeresschutzgebiete, die echte Rückzugs- und Erholungsräume für Arten sind.
 Ziele unserer Klimaschutzpolitik sind die Vermeidung von Treibhausgasemissionen durch den beschleunigten Ausbau Erneuerbarer Energien, effizientes Energiemanagement, Dekarbonisierung der Industrie und eine umfassendere Kreislaufwirtschaft.
 Wir folgen deshalb dem Grundsatz „CO2-Vermeidung vor CO2-Abscheidung“.
@@ -1493,13 +1516,13 @@ Mit ihrem Festhalten an veralteten Vorstellungen gefährdet die Union so den soz
 Dagegen überprüfen wir kontinuierlich bestehende Strukturen, um aus der Geschichte der Integration weiter eine Erfolgsgeschichte zu machen.
 Die Zuwanderung nach Deutschland aus Asyl- und Fluchtgründen stellt uns weiter vor große Herausforderungen.
 Wir begegnen ihr auf allen Ebenen verantwortungsvoll mit Humanität und Ordnung.
-Klar ist:
 Wer sich nicht an die Regeln hält, muss wieder gehen.
 Doch wer auf Schutz angewiesen ist, dem gewähren wir Schutz.
 Wer als Geflüchteter keinen Schutzstatus erhalten hat und dennoch Integration in Arbeitsmarkt und Gesellschaft bewältigt und straffrei ist, dem soll der Spurwechsel in die Fachkräfteeinwanderung ermöglicht werden.
 Wir wollen die Integration verbessern und Fachkräfteeinwanderung vereinfachen.
 Wir werden die Integrationskurse ausbauen und sicherstellen, dass sie mit angemessenen Haushaltsmitteln finanziert werden, damit sie ihre zentrale Rolle bei der Erstintegration weiterhin erfüllen können.
-Wir wollen ein Partizipationsgesetz auf den Weg bringen: Durch verbindliche Regelungen soll gleichberechtigte Teilhabe in allen relevanten Bereichen – von Bildung und Arbeit bis hin zu politischer Mitbestimmung – erreicht werden.
+Wir wollen ein Partizipationsgesetz auf den Weg bringen:
+Durch verbindliche Regelungen soll gleichberechtigte Teilhabe in allen relevanten Bereichen – von Bildung und Arbeit bis hin zu politischer Mitbestimmung – erreicht werden.
 Ziel ist es, Teilhabehürden abzubauen, Chancengleichheit zu schaffen und so Integration sowie den gesellschaftlichen Zusammenhalt zu stärken.
 Wir wollen das Fachkräfteeinwanderungsgesetz unbürokratisch umsetzen und beständig weiterentwickeln, damit qualifizierte Arbeitskräfte einfacher und schneller nach Deutschland kommen
 Mit klaren Regeln, einer vereinfachten und schnelleren Anerkennung von Qualifikationen und Abschlüssen und fairen Anwerbeabkommen schaffen wir dafür die Grundlage, um gleichzeitig Integration und Teilhabe zu fördern.
@@ -1536,7 +1559,8 @@ Wird dies verweigert, setzen wir auf rasche wie konsequente Abschiebungen, insbe
 Die Externalisierung von Asylverfahren lehnen wir ab.
 Schutzsuchende müssen Zugang zu fairen und rechtsstaatlichen Verfahren in der EU erhalten.
 Wir wollen Fluchtursachen und Schleuserkriminalität bekämpfen.
-Wir stellen klar: Seenotrettung ist eine Verpflichtung aus dem internationalen Seerecht und darf nicht kriminalisiert werden.
+Wir stellen klar:
+Seenotrettung ist eine Verpflichtung aus dem internationalen Seerecht und darf nicht kriminalisiert werden.
 Zudem muss Seenotrettung auch staatlich durch die EU gewährleistet werden.
 Gleichzeitig setzen wir uns für sichere und legale Fluchtrouten ein, sowie für Ressettlement- und humanitäre Aufnahmeprogramme, um gefährliche Überfahrten zu vermeiden.
 Wir engagieren uns für umfassende Migrationsabkommen, die Zuwanderungswege in Ausbildung und Arbeit eröffnen und vor Ort die Aufnahme von Geflüchteten unterstützt.
@@ -1560,7 +1584,8 @@ Diplomatie, die Suche nach gemeinsamen Interessen und darauf aufbauend Zusammena
 Frieden und Freiheit sind nicht selbstverständlich.
 Sie müssen erarbeitet, gesichert und verteidigt werden.
 Das hat uns der Krieg gegen die Ukraine auf schreckliche Weise gezeigt.
-Bereits unter Willy Brandt als Kanzler galt: Nur aus einer Position der Stärke heraus ist die Wahrung von Frieden möglich.
+Bereits unter Willy Brandt als Kanzler galt:
+Nur aus einer Position der Stärke heraus ist die Wahrung von Frieden möglich.
 Deshalb sind für uns militärische Stärke und Diplomatie zwei Seiten der gleichen Medaille.
 Unsere Antwort auf eine Welt im Umbruch ist eine Verteidigungs- und Sicherheitspolitik, die mehr Verantwortung beim Schutz Europas übernimmt.
 Die Sicherheit auf unserem Kontinent müssen wir vor Russland organisieren.
@@ -1648,7 +1673,7 @@ Auch damit nicht andere Akteure an die Stelle der EU treten.
 Wir setzen uns für eine zügige Aufnahme der westlichen Balkanstaaten ein.
 Durch spürbare Fortschritte im Erweiterungsprozess, wie etwa dem Zugang zum gemeinsamen Binnenmarkt, sollen die Menschen spüren, dass sich der Weg in die EU lohnt.
 Auch die Ukraine und Moldau sollen ein Teil der EU werden.
-Beide Länder lassen keinen Zweifel daran, dass sie sich schon heute an den gemeinsamen Werten der EU orientieren und sich nach dem Schutz der
+Beide Länder lassen keinen Zweifel daran, dass sie sich schon heute an den gemeinsamen Werten der EU orientieren und sich nach dem Schutz
 Gemeinschaft, in Frieden und Freiheit leben zu können, sehnen.
 Mit der Erweiterung nach Osteuropa setzen wir ein klares Zeichen gegen den Versuch der einseitigen Grenzverschiebungen durch Russland, bekennen uns zum gemeinsamen Wiederaufbau der Ukraine und ermöglichen den Menschen den Zugang zu unserer Wertegemeinschaft.
 Auch die Kräfte in Georgien, die für Freiheit, Demokratie und Wohlstand eintreten und eine Zukunft in Europa fordern, unterstützen wir.
@@ -1784,11 +1809,11 @@ Wir werden in einer Globalen Allianz für Steuergerechtigkeit gemeinsam mit ande
 Superreiche sollen stärker für die Finanzierung des Gemeinwohls, insbesondere zur Erreichung der UN-Nachhaltigkeitsziele sowie zur Klimafinanzierung, herangezogen werden.
 Gemeinsam mit zentralen Akteuren wie der Weltbank und dem Internationalen Währungsfonds können wir die internationale Finanzarchitektur gerechter machen.
 Investitionen in öffentliche Güter wie Bildung, Gesundheit und Klimaschutz müssen in den Mittelpunkt der internationalen Finanzarchitektur und zentraler Akteure wie dem IWF, der Weltbank und der regionalen Entwicklungsbanken rücken.
-Für hochverschuldete Länder setzen wir zudem stärker auf eine Schuldenumwandlung: Tausch ihrer Verpflichtungen gegen Investitionen, in die soziale und ökologische Transformation.
+Für hochverschuldete Länder setzen wir zudem stärker auf eine Schuldenumwandlung:
+Tausch ihrer Verpflichtungen gegen Investitionen, in die soziale und ökologische Transformation.
 Wir wollen strategische Partnerschaften.
 Viele Bereiche unseres Alltags und unserer Wirtschaft hängen unmittelbar an robusten Lieferketten und dem Zugang zu besonders wertvollen Rohstoffen.
 Als innovativer Industriestandort wollen wir Allianzen bilden und mit strategischen Partnerschaften Brücken bauen – beispielsweise beim Ausbau von grünem
-Wasserstoff.
 Nachhaltige und verantwortungsvolle Wertschöpfungsketten gilt es mit Produktionsstätten vor Ort zu schaffen und damit Arbeitsplätze zu sichern – auch bei uns zu Hause.
 Wir wollen konkrete Vereinbarungen zu internationalen Standards, die gute Arbeit mit existenzsichernden Löhnen sicherstellt.
 Mit der EU-Lieferkettenrichtlinie haben wir klare Regelungen und gleiche Voraussetzungen für alle Unternehmen in Europa geschaffen.
@@ -1814,10 +1839,8 @@ Es geht um ganzheitliche Ansätze, bei denen die betroffenen Menschen und Region
 Dafür werden wir noch stärker Gewerkschaften und Zivilgesellschaft mit einbeziehen.
 Für ein Vorangehen bei den Transformationsaufgaben sind wir aber auf internationale Vertrauensnetzwerke wie den internationalen Klimaclub angewiesen, der bereits wichtige Impulse für die Zusammenarbeit gesetzt hat.
 Wir wollen weitere Formate initiieren und unterstützen.
-RP06: Unser Versprechen
-25.Politik heißt für uns: Wir kämpfen für Dich.
-Fast 26.000 Wörter. 4 große Kapitel.
-24 Wahlkampf-Themen.
+25.Politik heißt für uns:
+Wir kämpfen für Dich.
 Danke fürs Zeit nehmen und lesen.
 Es ist ein umfassendes Programm.
 Aber für uns ist es viel mehr.
@@ -1829,15 +1852,15 @@ Die Renten für alle Generationen stabil halten und Familien spürbar entlasten.
 Das Wachstum vorantreiben und die Wirtschaft stärken.
 Arbeitsplätze sichern und schützen.
 Sich für gerechte Löhne einsetzen und die Kaufkraft der Menschen stärken.
-Was unser Programm starkmacht und wo wir uns jetzt unterscheiden im Meer der Wahlkampf-Floskeln: Bei der SPD steckt hinter jedem einzelnen Programmpunkt ein konkreter Vorschlag zur Umsetzung.
-15 Euro Mindestlohn.
+Was unser Programm starkmacht und wo wir uns jetzt unterscheiden im Meer der Wahlkampf-Floskeln:
+Bei der SPD steckt hinter jedem einzelnen Programmpunkt ein konkreter Vorschlag zur Umsetzung.
 Senkung der Mehrwertsteuer für Lebensmittel auf fünf Prozent.
 95 Prozent der Steuerzahlenden sollen mehr Netto vom Brutto haben.
 Eine stabile Rente für alle Generationen.
-Made in Germany Bonus, Einrichtung eines Deutschlandfonds, um die Wirtschaft zu stärken – nur um einige wichtige zu nennen.
+Made in Germany
+Bonus, Einrichtung eines Deutschlandfonds, um die Wirtschaft zu stärken – nur um einige wichtige zu nennen.
 Als SPD sind wir fest davon überzeugt: Soll es Deutschland besser gehen, dann muss es jedem Einzelnen im Land besser gehen.
 Das ist das Ziel unserer Politik.
 Das treibt uns jeden Tag an.
 Und genau das macht dieses Programm.
 In diesem Sinne: Wir freuen uns auf einen spannenden Wahlkampf, auf den Austausch überall in Deutschland.
-Deine SPD
