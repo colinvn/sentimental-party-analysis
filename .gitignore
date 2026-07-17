@@ -172,3 +172,7 @@ cython_debug/
 
 # macOS stuff
 .DS_Store
+imports/dictionaries/*
+imports/manifestos_manually/*
+exports/manifesto_texts*
+own
