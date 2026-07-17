@@ -1,0 +1,1 @@
+Full manifesto texts can be reproduced via the notebook but are not shared via Git. Please refer to the Manifesto Project's database for full texts.
