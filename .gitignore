@@ -175,4 +175,5 @@ cython_debug/
 imports/dictionaries/*
 imports/manifestos_manually/*
 exports/manifesto_texts*
+interim/manifesto_texts_all_unprocessed.pkl
 own
