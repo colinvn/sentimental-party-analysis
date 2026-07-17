@@ -1,0 +1,3 @@
+To avoid copyright infringements, the dictionaries used for this project are not provided as files. Instead, the Jupyter notebook provides links to the respective authors' repositories/webpages. You should download these dictionaries and place them inside `imports/dictionaries`.
+
+In addition, if you want to work Manifestos not contained in the Manifesto Project's database, but instead with original PDFs (as published by the parties) or with Excel tables (as provided by the Manifesto Project before inclusion into the database), the Jupyter notebook provides functions to read in these files. Place PDFs inside `imports/manifestos_manually/manifestos_pdf` and Excel files inside `imports/manifestos_manually/manifesto_project_preliminary`.
